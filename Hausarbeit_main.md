@@ -6,6 +6,7 @@
 ## Die philosophische Hausarbeit als Prüfungsformat
 
 ![alt-text](1.png)
+
 <p style="text-align:justify">Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophsichen Problem/ Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.</p>
 
 <p style="text-align:justify">Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu trainieren. Dies schließt eine selbstständige und fundierte Auseinandersetzung mit philosophischen Themen und Positionen ein, die aus einer gründlichen Beschäftigung und kritischen Auseinandersetzung mit der im Seminar behandelten Primärliteratur sowie relevanter Fachliteratur folgt und nicht allein auf Basis eigener Überlegungen vollzogen wird. Ihre eigene Meinung ist von Bedeutung, allerdings müssen Sie sie gut begründen. Es geht bei einer wissenschaftlichen philosophischen Hausarbeit nicht primär darum, die eigene Meinung bloß mitzuteilen, sondern darum, andere durch Argumente von ihr zu überzeugen.</p>
@@ -13,23 +14,24 @@
 ## I. Themenwahl und Vorbereitung
 
 ![alt-text](7.png)
+
 <p style="text-align:justify">Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Einordnungen und Argumentationsansätze bietet. Das Thema Ihrer Hausarbeit sollte thematisch im Rahmen des jeweiligen Seminars liegen. Idealerweise wählen Sie es selbst aus und besprechen es mit dem Seminarleiter oder der Seminarleiterin. Idealerweise dient die geplante Hausarbeit der Vertiefung eigener fachlicher Interessen. <p>
 Überlegen Sie sich, welcher Themenbereich oder welche im Seminar besprochenen Schwerpunkte Sie interessiert.</p>
 
-- <p style="text-align:justify">Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monographie, Sammelband, relevanter Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.</p>
+- Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monographie, Sammelband, relevanter Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.
 
-- <p style="text-align:justify">Beim Lesen sollten Sie nicht allein darauf achten, welche spezifischen Fragestellungen Ihr Interesse wecken, sondern auch, an welchen Stellen Ihnen der Verfassering bzw. des Verfassers schwer nachvollziehbar oder möglicherweise fehlerhaft erscheint. Solche Textstellen geben häufig eine gute Grundlage für die Inspiration einer eigenen Ausgangsthese.</p>
+- Beim Lesen sollten Sie nicht allein darauf achten, welche spezifischen Fragestellungen Ihr Interesse wecken, sondern auch, an welchen Stellen Ihnen der Verfassering bzw. des Verfassers schwer nachvollziehbar oder möglicherweise fehlerhaft erscheint. Solche Textstellen geben häufig eine gute Grundlage für die Inspiration einer eigenen Ausgangsthese.
 
-- <p style="text-align:justify">Das Thema Ihrer Hausarbeit sollte klar eingegrenzt und nicht zu breit gefasst sein. Es sollte grundsätzlich eine eng umrissene Fragestellung gründlich bearbeitet werden, als eine weitläufige oder offene Fragestellung, die i.d.R. im Rahmen einer Hausarbeit nur eine oberflächliche Untersuchung erlaubt.</p>
+- Das Thema Ihrer Hausarbeit sollte klar eingegrenzt und nicht zu breit gefasst sein. Es sollte grundsätzlich eine eng umrissene Fragestellung gründlich bearbeitet werden, als eine weitläufige oder offene Fragestellung, die i.d.R. im Rahmen einer Hausarbeit nur eine oberflächliche Untersuchung erlaubt.
 
 <p style="text-align:justify"> Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bildet.  Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.</p>
 
-- <p style="text-align:justify"> Bietet A eine überzeugende Lösung für das Problem X?
-- <p style="text-align:justify">A schlägt Lösung M für Problem X vor, während B Lösung N vorschlägt. Welche dieser Lösungen ist aus welchen Gründen überzeugender?
-- <p style="text-align:justify">  Ist die Kritik von A an der Theorie T stichhaltig?</p>
-- <p style="text-align:justify"> Wie ist die Textstelle Y im Werk von A genau zu interpretieren?</p>
-- <p style="text-align:justify"> A und B deuten die Textstelle Y auf völlig unterschiedliche Weise. Welche Argumente sprechen für die Interpretation von A, welche für die von B?</p>
-- <p style="text-align:justify"> Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.
+- Bietet A eine überzeugende Lösung für das Problem X?
+- A schlägt Lösung M für Problem X vor, während B Lösung N vorschlägt. Welche dieser Lösungen ist aus welchen Gründen überzeugender?
+- Ist die Kritik von A an der Theorie T stichhaltig?
+- Wie ist die Textstelle Y im Werk von A genau zu interpretieren?
+- A und B deuten die Textstelle Y auf völlig unterschiedliche Weise. Welche Argumente sprechen für die Interpretation von A, welche für die von B?
+- Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.
 
 ## II. Themenabsprache
 
@@ -38,13 +40,12 @@
 <p style="text-align:justify">Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakulativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung. Das Exposé hilft dabei, das eigene Vorhaben zu planen, zu organisieren und mit Betreuenden abzustimmen, um frühzeitig Feedback zu erhalten und mögliche Probleme zu identifizieren.</p>
 <p style="text-align:justify">Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie dennoch daran, dass die Vorteile eines Exposés zu ihren Gunsten ausfallen;</p>
 
-- <p style="text-align:justify"> Klarheit und Struktur: Es hilft, das Thema, die Fragestellung und den Forschungsansatz präzise zu formulieren und zu strukturieren.</p>
-- <p style="text-align:justify"> Zielorientierung: Durch die Festlegung von Zielen und Methoden wird das Arbeiten zielgerichteter und effizienter.</p>
-
-- <p style="text-align:justify"> Feedback-Möglichkeit: Das Exposé und auch die Themenabsprache im allgemeinen ermöglicht es, frühzeitig Rückmeldungen von erhalten und das Vorhaben gegebenenfalls anzupassen.</p>
-- <p style="text-align:justify"> Zeitplanung: Es unterstützt bei der Planung des Arbeitsablaufs und hilft, Zeitrahmen für die einzelnen Arbeitsschritte festzulegen.</p>
-- <p style="text-align:justify"> Problemerkennung: Durch die frühzeitige Auseinandersetzung mit dem Thema lassen sich mögliche Schwierigkeiten oder Lücken in der Argumentation frühzeitig erkennen.</p>
-- <p style="text-align:justify"> Motivation und Orientierung: Ein gut durchdachtes Exposé dient als Leitfaden während der Schreibphase und verhindert, dass man sich vom eigentlichen Thema entfernt.</p>
+- Klarheit und Struktur: Es hilft, das Thema, die Fragestellung und den Forschungsansatz präzise zu formulieren und zu strukturieren.
+- Zielorientierung: Durch die Festlegung von Zielen und Methoden wird das Arbeiten zielgerichteter und effizienter.
+- Feedback-Möglichkeit: Das Exposé und auch die Themenabsprache im allgemeinen ermöglicht es, frühzeitig Rückmeldungen von erhalten und das Vorhaben gegebenenfalls anzupassen.
+- Zeitplanung: Es unterstützt bei der Planung des Arbeitsablaufs und hilft, Zeitrahmen für die einzelnen Arbeitsschritte festzulegen.
+- Problemerkennung: Durch die frühzeitige Auseinandersetzung mit dem Thema lassen sich mögliche Schwierigkeiten oder Lücken in der Argumentation frühzeitig erkennen.
+- Motivation und Orientierung: Ein gut durchdachtes Exposé dient als Leitfaden während der Schreibphase und verhindert, dass man sich vom eigentlichen Thema entfernt.
 
 ## III. Literatur: Auswahl und Suche
 
@@ -58,45 +59,47 @@
 
 <p style="text-align:justify">Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen – verschiedene Methoden stehen Ihnen zur Auswahl.</p>
 
--	<p style="text-align:justify">  PLATO-Methode</p>
--	<p style="text-align:justify">Ausführliche Zusammenfassung der wichtigsten Textabschnitte und -stellen</p>
--	<p style="text-align:justify"> Concept Maps</p>
--	<p style="text-align:justify"> Literaturverwaltungsprogramme wie Citavi, Zotero o.Ä. </p>
--	<p style="text-align:justify"> … </p>
+-	PLATO-Methode
+-	Ausführliche Zusammenfassung der wichtigsten Textabschnitte und -stellen
+-	Concept Maps
+-	Literaturverwaltungsprogramme wie Citavi, Zotero o.Ä. 
+- … 
 
 **Literatursuche**
 <p style="text-align:justify"> Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezialisierten Datenbanken, Enzyklopädien und gezieltem Vorgehen. Primärliteratur bildet dabei das Fundament, während Sekundärliteratur zur Analyse, Diskussion und Einordnung dient. Ein methodisches Vorgehen und der gezielte Einsatz digitaler sowie analoger Ressourcen ermöglichen es, die relevante Forschungsliteratur für Ihre Hausarbeit effizient zu finden. Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden:</p>
 
 * Klassische Werke und Primärtexte
 
-  * <p style="text-align:justify">Arbeiten Sie mit Originaltexten der behandelten Philosoph*innen (Primärliteratur).
-  * <p style="text-align:justify">Nutzen Sie kritische Editionen oder zuverlässige Übersetzungen, oft verfügbar in Bibliotheken oder digitalen Archiven.
+  * Arbeiten Sie mit Originaltexten der behandelten Philosoph*innen (Primärliteratur).
+  * Nutzen Sie kritische Editionen oder zuverlässige Übersetzungen, oft verfügbar in Bibliotheken oder digitalen Archiven.
 
-* <p style="text-align:justify">Sekundärliteratur und Forschungsliteratur
-  * <p style="text-align:justify">Aktuelle Monographien, Sammelbände oder Fachzeitschriften liefern Analysen, Interpretationen und Forschungskontroversen zu Ihrem Thema.
-  * <p style="text-align:justify">Suchen Sie gezielt nach Rezensionen in Fachzeitschriften, um die Relevanz von Literatur einzuschätzen.
+* Sekundärliteratur und Forschungsliteratur
+
+  * Aktuelle Monographien, Sammelbände oder Fachzeitschriften liefern Analysen, Interpretationen und Forschungskontroversen zu Ihrem Thema.
+  * Suchen Sie gezielt nach Rezensionen in Fachzeitschriften, um die Relevanz von Literatur einzuschätzen.
 
 * Orientierung und Grundlagenarbeit
-  * <p style="text-align:justify">Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: Stanford Encyclopedia of Philosophy, Routledge Encyclopedia of Philosophy.
-  * <p style="text-align:justify">Einführungswerke und Handbücher: Diese bieten eine erste Einführung in das Thema und Literaturhinweise für vertiefende Werke. Beispiele: Reihen wie Grundrisse der Philosophie oder Metzler Handbuch.
+
+  * Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: Stanford Encyclopedia of Philosophy, Routledge Encyclopedia of Philosophy.
+  * Einführungswerke und Handbücher: Diese bieten eine erste Einführung in das Thema und Literaturhinweise für vertiefende Werke. Beispiele: Reihen wie Grundrisse der Philosophie oder Metzler Handbuch.
 
 * Gezielte Literaturrecherche
-  * <p style="text-align:justify">Verwenden Sie Schlagworte und Suchbegriffe systematisch: Variieren Sie Synonyme oder kombinieren Sie Begriffe logisch (z.B. mit AND/OR).
-  * <p style="text-align:justify">Nutzen Sie Filtermöglichkeiten in Datenbanken (z.B. Veröffentlichungsjahr, Autor, Sprache, Peer-Reviewed).
-  * <p style="text-align:justify">Durchsuchen Sie die Literaturlisten relevanter Werke, um weiterführende Quellen zu finden.
+  * Verwenden Sie Schlagworte und Suchbegriffe systematisch: Variieren Sie Synonyme oder kombinieren Sie Begriffe logisch (z.B. mit AND/OR).
+  * Nutzen Sie Filtermöglichkeiten in Datenbanken (z.B. Veröffentlichungsjahr, Autor, Sprache, Peer-Reviewed).
+  * Durchsuchen Sie die Literaturlisten relevanter Werke, um weiterführende Quellen zu finden.
 
-    * <p style="text-align:justify">Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
+    * Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
 
       * Karlsruher Virtueller Katalog (KVK)
       * Deutsche Nationalbibliothek
       * Lokale Bibliothekskataloge (z.B. OPAC).
     * Fach-Datenbanken für Philosophie:
-      * <p style="text-align:justify">PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
-      * <p style="text-align:justify">JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
-      * <p style="text-align:justify">ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
-    * <p style="text-align:justify">Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
-    * <p style="text-align:justify">Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
-    * <p style="text-align:justify">Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
+      * PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
+      * JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
+      * ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
+    * Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
+    * Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
+    * Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
 
 ## IV. Gliederung
 
@@ -107,7 +110,7 @@
 **Formale Gliederung der Arbeit**
 * Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer
 * Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
-*  Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
+* Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
 * Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
 * Schluss: Zusammenfassung und ggf. Ausblick
 * Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
@@ -116,12 +119,12 @@
 **Der Aufbau des Textes lässt sich in drei Hauptteile gliedern:**
 
 **Einleitung:**
-* <p style="text-align:justify">Die Einleitung führt in das Thema ein, weckt das Interesse der Leser*innen und entwickelt die zentrale Fragestellung sowie die These oder Zielsetzung der Arbeit. Sie sollte folgende Punkte enthalten:
+* Die Einleitung führt in das Thema ein, weckt das Interesse der Leser*innen und entwickelt die zentrale Fragestellung sowie die These oder Zielsetzung der Arbeit. Sie sollte folgende Punkte enthalten:
 * Worum geht es? (Thema und Fragestellung)
-* <p style="text-align:justify">Warum ist das Thema relevant? (nur falls passend, z.B. durch Bezug auf größere philosophische Projekte)
-* <p style="text-align:justify">Wie wird methodisch vorgegangen? (Gliederung der Arbeit)
-* <p style="text-align:justify">Dabei sollten biographische Informationen zur Autorin oder Allgemeinplätze vermieden werden. Persönliche Meinungen oder subjektive Bezüge zum Thema gehören nicht in die Einleitung. Als Faustregel gilt: Die Einleitung sollte nicht mehr als 10 % des gesamten Textumfangs ausmachen.
-</p>
+* Warum ist das Thema relevant? (nur falls passend, z.B. durch Bezug auf größere philosophische Projekte)
+* Wie wird methodisch vorgegangen? (Gliederung der Arbeit)
+* Dabei sollten biographische Informationen zur Autorin oder Allgemeinplätze vermieden werden. Persönliche Meinungen oder subjektive Bezüge zum Thema gehören nicht in die Einleitung. Als Faustregel gilt: Die Einleitung sollte nicht mehr als 10 % des gesamten Textumfangs ausmachen.
+
   
 **Hauptteil:** 
 <p style="text-align:justify">Der Hauptteil bildet das Zentrum der Arbeit und folgt logisch der zuvor formulierten Fragestellung. Alle relevanten Gedankenschritte zur Beantwortung der Frage müssen hier schlüssig und strukturiert dargestellt werden, während nebensächliche Punkte weggelassen werden.
@@ -149,9 +152,10 @@
 <p style="text-align:justify">Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um wissenschaftliche Redlichkeit zu gewährleisten, die Nachvollziehbarkeit der Argumentation sicherzustellen und Plagiate zu vermeiden.</p>
 
 **Grundprinzipien der Zitation**
-* <p style="text-align:justify">Transparenz: Jede fremde Idee, jedes Zitat oder jede Paraphrase muss klar als solche gekennzeichnet werden.
-* <p style="text-align:justify">Nachvollziehbarkeit: Die verwendeten Quellen müssen für Leser*innen eindeutig auffindbar sein.
-* <p style="text-align:justify">Einheitlichkeit: Ein einmal gewähltes Zitationssystem sollte konsequent in der gesamten Arbeit beibehalten werden.
+
+* Transparenz: Jede fremde Idee, jedes Zitat oder jede Paraphrase muss klar als solche gekennzeichnet werden.
+* Nachvollziehbarkeit: Die verwendeten Quellen müssen für Leser*innen eindeutig auffindbar sein.
+* Einheitlichkeit: Ein einmal gewähltes Zitationssystem sollte konsequent in der gesamten Arbeit beibehalten werden.
 
 **Zitationsformen**
 
@@ -161,18 +165,19 @@
 
   * Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
    
-   Bei der ersten Nennung wird die vollständige Literaturangabe genannt:</p>
+   Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
 
     Beispiel: Autor, Titel, Erscheinungsort, Erscheinungsjahr, Seitenangabe. 
 
     Bei wiederholter Nennung derselben Quelle kann eine Kurzform verwendet werden:
 
-    Beispiel: Autor, Kurztitel, Seitenangabe. </p>
+    Beispiel: Autor, Kurztitel, Seitenangabe.
 
 * Harvard-Zitation (Kurzverweis im Text)
     * Die Quellenangabe erfolgt in Klammern direkt im Text: Beispiel: (Autor Jahr, Seitenzahl).
        
         Am Ende der Arbeit wird die vollständige Angabe im Literaturverzeichnis gemacht.
+
 * Korrektes Zitieren: 
 
   <p style="text-align:justify">Je nach Publikation gelten folgende Richtlinien:</p>
@@ -268,15 +273,19 @@ Präzise:
 ## VII. Literaturverzeichnis 
 
 ![alt text](<5 Kopie.png>)
+
 <p style="text-align:justify">Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeichnis vollständig und alphabetisch sortiert aufgeführt werden. Die genaue Form hängt vom gewählten Zitationsstil ab. Beispiel für die häufige deutsche Zitierweise:</p>
 
 **Monographie:**
+
 <p style="text-align:justify"> Weil, Simone (2021): Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, 3. Auflage, Zürich: Diaphanes Verlag.</p>
 
 **Aufsatz in einem Sammelband:**
+
 <p style="text-align:justify">Habermas, Jürgen (1994): Handlungsrationalität und gesellschaftliche Rationalisierung, in: Dieter Thoma, Dieter (Hrsg.), Philosophische Theorien der Rationalität, Frankfurt a.M.: Suhrkamp, S. 35–67.</p>
 
 **Zeitschriftenartikel:**
+
 <p style="text-align:justify">Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.</p>
 
 ## VIII. Literaturempfehlungen: 
