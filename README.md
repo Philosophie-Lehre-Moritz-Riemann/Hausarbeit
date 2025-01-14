@@ -160,17 +160,24 @@ Der Hauptteil bildet das Zentrum der Arbeit und folgt logisch der zuvor formulie
 * Argumentative Auseinandersetzung: Entwicklung der eigenen Argumentation durch kritische Analyse und Diskussion der zugrundeliegenden Texte. Dabei gilt es, Einwände zu begründen und überzeugende Gegenargumente zu prüfen.
 * Gedankliche Übergänge: Zwischen einzelnen Kapiteln sollten klare Verbindungen geschaffen werden, etwa durch kurze Resümees der bisherigen Inhalte, die zur Zielsetzung des nächsten Abschnitts überleiten.
 
-<p style="text-align:justify">Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument und Beispiel zu folgen:</p>
+Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument und Beispiel zu folgen:
 
-* **These:** <p style="text-align:justify"> Eine klare Aussage, die belegbar oder widerlegbar ist.</p>
+* **These:** 
 
-* **Argument:** <p style="text-align:justify">Stützt die These und muss in einer textbasierten Wissenschaft wie der Philosophie immer am Originaltext nachgewiesen werden.</p>
+  Eine klare Aussage, die belegbar oder widerlegbar ist.
 
-* **Beispiel** <p style="text-align:justify">Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.</p>
+* **Argument:** 
+
+  Stützt die These und muss in einer textbasierten Wissenschaft wie der Philosophie immer am Originaltext nachgewiesen werden.
+
+* **Beispiel** 
+
+  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
 
 
 **Schluss:** 
-<p style="text-align:justify">Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.</p>
+
+Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
 
 ## V. Zitation 
 
@@ -188,10 +195,10 @@ Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um 
 
 **Zitationsformen**
 
-In der Philosophie werden vor allem zwei Zitationsweisen verwendet. Welches System zu verwenden ist, hängt häufig von den Vorgaben Ihrer Universität oder Ihres Dozenten ab. Konsistenz innerhalb der Arbeit ist entscheidend.</p>
+In der Philosophie werden vor allem zwei Zitationsweisen verwendet. Welches System zu verwenden ist, hängt häufig von den Vorgaben Ihrer Universität oder Ihres Dozenten ab. Konsistenz innerhalb der Arbeit ist entscheidend.
 
 * Deutsche Zitierweise (Fußnoten)
-
+  
   Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
    
   Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
@@ -359,4 +366,3 @@ Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
 
 Standop, Ewald/Meyer, Matthias: Die Form der wissenschaftlichen Arbeit. Wiebelsheim 182008 Werder, Lutz von: Kreatives Schreiben in den Wissenschaften. Für Schule, Hochschule und Er- wachsenenbildung. Berlin 1992.
-
