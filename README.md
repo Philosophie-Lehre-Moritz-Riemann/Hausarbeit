@@ -38,6 +38,7 @@ Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bi
 ## II. Themenabsprache
 
 ![alt-text](8.png)
+
 Es wird allgemein empfohlen, das Thema und die Vorgehensweise im Vorfeld mit der Lehrperson abzustimmen. In einigen Fällen wird dies sogar explizit verlangt. Ob die Absprache in Form einer Sprechstunde, via E-Mail oder eines Telefonats erfolgt, ist stets individuell abzusprechen.
 
 Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakulativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung. Das Exposé hilft dabei, das eigene Vorhaben zu planen, zu organisieren und mit Betreuenden abzustimmen, um frühzeitig Feedback zu erhalten und mögliche Probleme zu identifizieren.
@@ -56,12 +57,14 @@ Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie denno
 ![alt-text](1_1.png)
 
 
-**Umgang mit Primär-und Forschungsliteratur**</p>
-<p style="text-align:justify">Fassen Sie Sekundärliteratur keinesfalls einfach nur zusammen, sondern nutzen Sie sie als Ausgangspunkt für eine eigenständige Argumentation und zur Unterstützung Ihrer eigenen Thesen.</p>
-<p style="text-align:justify">Um die Anforderungen an wissenschaftliches Arbeiten zu erfüllen, sollten Sie in Ihrer Hausarbeit grundsätzlich nur zitierwürdige Literatur verwenden. Das bedeutet, dass ausschließlich wissenschaftliche und glaubwürdige Quellen herangezogen werden dürfen. Gehen Sie dabei kritisch vor, indem Sie tragfähige Gegenargumente zu allen Überzeugungen in Betracht ziehen. Lesen und interpretieren Sie Texte im besten möglichen Licht (im Sinne des „Principle of Charity“), begründen Sie Ihre Urteile sorgfältig und geben Sie alle verwendeten Quellen präzise an. Es muss für Ihre Leser*innen jederzeit nachvollziehbar sein, ob Sie fremde Texte paraphrasieren oder Ihre eigenen Gedanken darstellen. Achten Sie dabei stets auf wissenschaftliche Redlichkeit und Integrität. Im Kapitel „VI Zitation“ wird ausführlich erläutert, wie Forschungsliteratur konkret und korrekt in die eigene Arbeit integriert wird.</p>
+**Umgang mit Primär-und Forschungsliteratur**
+
+Fassen Sie Sekundärliteratur keinesfalls einfach nur zusammen, sondern nutzen Sie sie als Ausgangspunkt für eine eigenständige Argumentation und zur Unterstützung Ihrer eigenen Thesen.
+
+Um die Anforderungen an wissenschaftliches Arbeiten zu erfüllen, sollten Sie in Ihrer Hausarbeit grundsätzlich nur zitierwürdige Literatur verwenden. Das bedeutet, dass ausschließlich wissenschaftliche und glaubwürdige Quellen herangezogen werden dürfen. Gehen Sie dabei kritisch vor, indem Sie tragfähige Gegenargumente zu allen Überzeugungen in Betracht ziehen. Lesen und interpretieren Sie Texte im besten möglichen Licht (im Sinne des „Principle of Charity“), begründen Sie Ihre Urteile sorgfältig und geben Sie alle verwendeten Quellen präzise an. Es muss für Ihre Leser*innen jederzeit nachvollziehbar sein, ob Sie fremde Texte paraphrasieren oder Ihre eigenen Gedanken darstellen. Achten Sie dabei stets auf wissenschaftliche Redlichkeit und Integrität. Im Kapitel „VI Zitation“ wird ausführlich erläutert, wie Forschungsliteratur konkret und korrekt in die eigene Arbeit integriert wird.
 
 
-<p style="text-align:justify">Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen – verschiedene Methoden stehen Ihnen zur Auswahl.</p>
+Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen – verschiedene Methoden stehen Ihnen zur Auswahl.
 
 -	PLATO-Methode
 -	Ausführliche Zusammenfassung der wichtigsten Textabschnitte und -stellen
@@ -69,8 +72,10 @@ Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie denno
 -	Literaturverwaltungsprogramme wie Citavi, Zotero o.Ä. 
 - … 
 
+
 **Literatursuche**
-<p style="text-align:justify"> Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezialisierten Datenbanken, Enzyklopädien und gezieltem Vorgehen. Primärliteratur bildet dabei das Fundament, während Sekundärliteratur zur Analyse, Diskussion und Einordnung dient. Ein methodisches Vorgehen und der gezielte Einsatz digitaler sowie analoger Ressourcen ermöglichen es, die relevante Forschungsliteratur für Ihre Hausarbeit effizient zu finden. Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden:</p>
+
+Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezialisierten Datenbanken, Enzyklopädien und gezieltem Vorgehen. Primärliteratur bildet dabei das Fundament, während Sekundärliteratur zur Analyse, Diskussion und Einordnung dient. Ein methodisches Vorgehen und der gezielte Einsatz digitaler sowie analoger Ressourcen ermöglichen es, die relevante Forschungsliteratur für Ihre Hausarbeit effizient zu finden. Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden:
 
 * Klassische Werke und Primärtexte
 
@@ -88,6 +93,7 @@ Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie denno
   * Einführungswerke und Handbücher: Diese bieten eine erste Einführung in das Thema und Literaturhinweise für vertiefende Werke. Beispiele: Reihen wie Grundrisse der Philosophie oder Metzler Handbuch.
 
 * Gezielte Literaturrecherche
+
   * Verwenden Sie Schlagworte und Suchbegriffe systematisch: Variieren Sie Synonyme oder kombinieren Sie Begriffe logisch (z.B. mit AND/OR).
   * Nutzen Sie Filtermöglichkeiten in Datenbanken (z.B. Veröffentlichungsjahr, Autor, Sprache, Peer-Reviewed).
   * Durchsuchen Sie die Literaturlisten relevanter Werke, um weiterführende Quellen zu finden.
@@ -95,14 +101,23 @@ Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie denno
     * Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
 
       * Karlsruher Virtueller Katalog (KVK)
+
       * Deutsche Nationalbibliothek
+
       * Lokale Bibliothekskataloge (z.B. OPAC).
+
     * Fach-Datenbanken für Philosophie:
+
       * PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
+
       * JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
+
       * ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
+
     * Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
+
     * Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
+
     * Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
 
 ## IV. Gliederung
@@ -161,7 +176,9 @@ Der Hauptteil bildet das Zentrum der Arbeit und folgt logisch der zuvor formulie
 
 ![alt-text](2_2.png)
  
-<p style="text-align:justify">Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um wissenschaftliche Redlichkeit zu gewährleisten, die Nachvollziehbarkeit der Argumentation sicherzustellen und Plagiate zu vermeiden.</p>
+
+Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um wissenschaftliche Redlichkeit zu gewährleisten, die Nachvollziehbarkeit der Argumentation sicherzustellen und Plagiate zu vermeiden.
+
 
 **Grundprinzipien der Zitation**
 
@@ -171,19 +188,26 @@ Der Hauptteil bildet das Zentrum der Arbeit und folgt logisch der zuvor formulie
 
 **Zitationsformen**
 
-<p style="text-align:justify">In der Philosophie werden vor allem zwei Zitationsweisen verwendet. Welches System zu verwenden ist, hängt häufig von den Vorgaben Ihrer Universität oder Ihres Dozenten ab. Konsistenz innerhalb der Arbeit ist entscheidend.</p>
+In der Philosophie werden vor allem zwei Zitationsweisen verwendet. Welches System zu verwenden ist, hängt häufig von den Vorgaben Ihrer Universität oder Ihres Dozenten ab. Konsistenz innerhalb der Arbeit ist entscheidend.</p>
 
 * Deutsche Zitierweise (Fußnoten)
 
-  * Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
+  Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
    
-   Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
+  Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
 
-    Beispiel: Autor, Titel, Erscheinungsort, Erscheinungsjahr, Seitenangabe. 
+  Beispiel:
 
-    Bei wiederholter Nennung derselben Quelle kann eine Kurzform verwendet werden:
+  Autor, Titel, Erscheinungsort, Erscheinungsjahr, Seitenangabe. 
 
-    Beispiel: Autor, Kurztitel, Seitenangabe.
+
+  
+  Bei wiederholter Nennung derselben Quelle kann eine Kurzform verwendet werden:
+
+  
+  Beispiel: Autor, Kurztitel, Seitenangabe.
+
+
 
 * Harvard-Zitation (Kurzverweis im Text)
     * Die Quellenangabe erfolgt in Klammern direkt im Text: Beispiel: (Autor Jahr, Seitenzahl).
@@ -192,8 +216,7 @@ Der Hauptteil bildet das Zentrum der Arbeit und folgt logisch der zuvor formulie
 
 * Korrektes Zitieren: 
 
-
-*Je nach Publikation gelten folgende Richtlinien:*
+Je nach Publikation gelten folgende Richtlinien:
   
 **Monographien:** 
   
@@ -215,15 +238,14 @@ Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (
 
    **Artikel in einem Lexikon:**
 
-   Vorname Nachname, Titel des Artikels, in: Name des Lexikons, herausgegeben von Vorname Nachname, Bandnummer, Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seiten- oder Spaltenangabe: zitierte Seite/Spalte.</p> <p>&nbsp;</p>
-</p>
-   
+   Vorname Nachname, Titel des Artikels, in: Name des Lexikons, herausgegeben von Vorname Nachname, Bandnummer, Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seiten- oder Spaltenangabe: zitierte Seite/Spalte.
+  
    
 * **Direkte Zitate**
 
   *Definition:* Der exakte Wortlaut einer Textstelle wird übernommen.
   
-  *Kennzeichnung:* Direkte Zitate werden in Anführungszeichen gesetzt.</p>
+  *Kennzeichnung:* Direkte Zitate werden in Anführungszeichen gesetzt.
 
   *Quellenangabe:* Bei direkten Zitaten ist die genaue Seitenzahl zwingend erforderlich.
 
@@ -233,7 +255,7 @@ Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (
 
   *Eigene Hervorhebung*, dann wird in der Quellenangabe folgendes angegeben: „Hervorhebung d. Verf.“ – Man kann stattdessen aber auch die eigenen Initialien angeben; „Hervorhebung v. M.M. (Maxime Mustermann)
 
-  *Auslassungen:* „Der Satz ist […] Ausdrucksform des Gedankens“ (ebd.).</p>
+  *Auslassungen:* „Der Satz ist […] Ausdrucksform des Gedankens“ (ebd.).
 
   **Beispiel:**
 
@@ -246,7 +268,7 @@ Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (
 
   *Wichtig:* Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
 
-  *Definition:* Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.</p>
+  *Definition:* Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.
  
   *Kennzeichnung:* Paraphrasen werden nicht in Anführungszeichen gesetzt, jedoch muss die Quelle genannt werden.
 
@@ -257,7 +279,7 @@ Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (
   Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt.<sup>2</sup></p>
 
 
-  <sup>2</sup> Vgl. Weil, Über die Ursachen von Freiheit, 40f.</p>
+  <sup>2</sup> Vgl. Weil, Über die Ursachen von Freiheit, 40f.
  
 
 ## VI. Sprache und Stil 
@@ -306,27 +328,29 @@ Präzise:
 
   **Genauigkeit bei Textinterpretationen:** Achten Sie auf exakte Textstellen und deren Kontext. Interpretieren Sie keine Aussagen hinein, die der Autor nicht gemacht hat.
 
-  **Kritische Auseinandersetzung:** Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.</p>
+  **Kritische Auseinandersetzung:** Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.
 
 ## VII. Literaturverzeichnis 
 
-![alt text](<5_5.png>)
+ ![alt-text](5_5.png)
 
 Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeichnis vollständig und alphabetisch sortiert aufgeführt werden. Die genaue Form hängt vom gewählten Zitationsstil ab. Beispiel für die häufige deutsche Zitierweise:
 
 **Monographie:**
 
- Weil, Simone (2021): Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, 3. Auflage, Zürich: Diaphanes Verlag.</p>
+ Weil, Simone (2021): Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, 3. Auflage, Zürich: Diaphanes Verlag.
 
 **Aufsatz in einem Sammelband:**
 
-Habermas, Jürgen (1994): Handlungsrationalität und gesellschaftliche Rationalisierung, in: Dieter Thoma, Dieter (Hrsg.), Philosophische Theorien der Rationalität, Frankfurt a.M.: Suhrkamp, S. 35–67.</p>
+Habermas, Jürgen (1994): Handlungsrationalität und gesellschaftliche Rationalisierung, in: Dieter Thoma, Dieter (Hrsg.), Philosophische Theorien der Rationalität, Frankfurt a.M.: Suhrkamp, S. 35–67.
 
 **Zeitschriftenartikel:**
 
 Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
 
 ## VIII. Literaturempfehlungen: 
+
+![alt-text](5.png)
 
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
@@ -335,3 +359,4 @@ Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
 
 Standop, Ewald/Meyer, Matthias: Die Form der wissenschaftlichen Arbeit. Wiebelsheim 182008 Werder, Lutz von: Kreatives Schreiben in den Wissenschaften. Für Schule, Hochschule und Er- wachsenenbildung. Berlin 1992.
+
