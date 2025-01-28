@@ -6,7 +6,7 @@
 
 ![alt-text](1.png)
 
-<p style="text-align:justify">Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophsichen Problem/ Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.</p>
+<p style="text-align:justify">Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem/ einer Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.</p>
 
 <p style="text-align:justify">Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu trainieren. Dies schließt eine selbstständige und fundierte Auseinandersetzung mit philosophischen Themen und Positionen ein, die aus einer gründlichen Beschäftigung und kritischen Auseinandersetzung mit der im Seminar behandelten Primärliteratur sowie relevanter Fachliteratur folgt und nicht allein auf Basis eigener Überlegungen vollzogen wird. Ihre eigene Meinung ist von Bedeutung, allerdings müssen Sie sie gut begründen. Es geht bei einer wissenschaftlichen philosophischen Hausarbeit nicht primär darum, die eigene Meinung bloß mitzuteilen, sondern darum, andere durch Argumente von ihr zu überzeugen.</p>
 
@@ -14,21 +14,21 @@
 
 ![alt-text](7.png)
 
-Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Einordnungen und Argumentationsansätze bietet. Das Thema Ihrer Hausarbeit sollte thematisch im Rahmen des jeweiligen Seminars liegen. Idealerweise wählen Sie es selbst aus und besprechen es mit dem Seminarleiter oder der Seminarleiterin. Idealerweise dient die geplante. Hausarbeit der Vertiefung eigener fachlicher Interessen. 
+Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Einordnungen und Argumentationsansätze bietet. Das Thema Ihrer Hausarbeit sollte thematisch im Rahmen des jeweiligen Seminars liegen. Idealerweise wählen Sie es selbst aus und besprechen es mit dem Seminarleiter oder der Seminarleiterin. Im besten Fall dient die geplante Hausarbeit der Vertiefung eigener fachlicher Interessen. 
 
-Überlegen Sie sich, welcher Themenbereich oder welche im Seminar besprochenen Schwerpunkte Sie interessiert.
+Überlegen Sie sich, welcher Themenbereich oder welche im Seminar besprochenen Schwerpunkte Sie interessieren.
 
 
-- Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monographie, Sammelband, relevanter Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.
+- Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monografie, Sammelband, relevanter Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.
 
-- Beim Lesen sollten Sie nicht allein darauf achten, welche spezifischen Fragestellungen Ihr Interesse wecken, sondern auch, an welchen Stellen Ihnen der Verfassering bzw. des Verfassers schwer nachvollziehbar oder möglicherweise fehlerhaft erscheint. Solche Textstellen geben häufig eine gute Grundlage für die Inspiration einer eigenen Ausgangsthese.
+- Beim Lesen sollten Sie nicht allein darauf achten, welche spezifischen Fragestellungen Ihr Interesse wecken, sondern auch, an welchen Stellen Ihnen der Verfasserin bzw. des Verfassers schwer nachvollziehbar oder möglicherweise fehlerhaft erscheint. Solche Textstellen geben häufig eine gute Grundlage für die Inspiration einer eigenen Ausgangsthese.
 
-- Das Thema Ihrer Hausarbeit sollte klar eingegrenzt und nicht zu breit gefasst sein. Es sollte grundsätzlich eine eng umrissene Fragestellung gründlich bearbeitet werden, als eine weitläufige oder offene Fragestellung, die i.d.R. im Rahmen einer Hausarbeit nur eine oberflächliche Untersuchung erlaubt.</p>
+- Das Thema Ihrer Hausarbeit sollte klar eingegrenzt und nicht zu breit gefasst sein. Es sollte grundsätzlich eine eng umrissene Fragestellung gründlich bearbeitet werden als eine weitläufige oder offene Fragestellung, die i.d.R. im Rahmen einer Hausarbeit nur eine oberflächliche Untersuchung erlaubt.</p>
 
 Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bildet.  Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.
 
 - Bietet A eine überzeugende Lösung für das Problem X?
-- A schlägt Lösung M für Problem X vor, während B Lösung N vorschlägt. Welche dieser Lösungen ist aus welchen Gründen überzeugender?
+- A schlägt Lösung M für Problem X vor, während B Lösung N vorschlägt. Welche dieser Lösungen sind aus welchen Gründen überzeugender?
 - Ist die Kritik von A an der Theorie T stichhaltig?
 - Wie ist die Textstelle Y im Werk von A genau zu interpretieren?
 - A und B deuten die Textstelle Y auf völlig unterschiedliche Weise. Welche Argumente sprechen für die Interpretation von A, welche für die von B?
@@ -40,13 +40,13 @@ Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bi
 
 Es wird allgemein empfohlen, das Thema und die Vorgehensweise im Vorfeld mit der Lehrperson abzustimmen. In einigen Fällen wird dies sogar explizit verlangt. Ob die Absprache in Form einer Sprechstunde, via E-Mail oder eines Telefonats erfolgt, ist stets individuell abzusprechen.
 
-Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakulativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung. Das Exposé hilft dabei, das eigene Vorhaben zu planen, zu organisieren und mit Betreuenden abzustimmen, um frühzeitig Feedback zu erhalten und mögliche Probleme zu identifizieren.
+Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakultativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung. Das Exposé hilft dabei, das eigene Vorhaben zu planen, zu organisieren und mit den Betreuenden abzustimmen, um frühzeitig Feedback zu erhalten und mögliche Probleme zu identifizieren.
 
-Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie dennoch daran, dass die Vorteile eines Exposés zu ihren Gunsten ausfallen;
+Sollte Ihnen die Anfertigung eines Exposés offen gestellt sein, denken Sie dennoch daran, dass die Vorteile eines Exposés zu Ihren Gunsten ausfallen;
 
 - Klarheit und Struktur: Es hilft, das Thema, die Fragestellung und den Forschungsansatz präzise zu formulieren und zu strukturieren.
 - Zielorientierung: Durch die Festlegung von Zielen und Methoden wird das Arbeiten zielgerichteter und effizienter.
-- Feedback-Möglichkeit: Das Exposé und auch die Themenabsprache im allgemeinen ermöglicht es, frühzeitig Rückmeldungen von erhalten und das Vorhaben gegebenenfalls anzupassen.
+- Feedback-Möglichkeit: Das Exposé und auch die Themenabsprache im Allgemeinen ermöglicht es, frühzeitig Rückmeldungen zu erhalten und das Vorhaben gegebenenfalls anzupassen.
 - Zeitplanung: Es unterstützt bei der Planung des Arbeitsablaufs und hilft, Zeitrahmen für die einzelnen Arbeitsschritte festzulegen.
 - Problemerkennung: Durch die frühzeitige Auseinandersetzung mit dem Thema lassen sich mögliche Schwierigkeiten oder Lücken in der Argumentation frühzeitig erkennen.
 - Motivation und Orientierung: Ein gut durchdachtes Exposé dient als Leitfaden während der Schreibphase und verhindert, dass man sich vom eigentlichen Thema entfernt.
@@ -60,7 +60,7 @@ Sollte Ihnen die Anfertigung eines Exposés offengestellt sein, denken Sie denno
 
 Fassen Sie Sekundärliteratur keinesfalls einfach nur zusammen, sondern nutzen Sie sie als Ausgangspunkt für eine eigenständige Argumentation und zur Unterstützung Ihrer eigenen Thesen.
 
-Um die Anforderungen an wissenschaftliches Arbeiten zu erfüllen, sollten Sie in Ihrer Hausarbeit grundsätzlich nur zitierwürdige Literatur verwenden. Das bedeutet, dass ausschließlich wissenschaftliche und glaubwürdige Quellen herangezogen werden dürfen. Gehen Sie dabei kritisch vor, indem Sie tragfähige Gegenargumente zu allen Überzeugungen in Betracht ziehen. Lesen und interpretieren Sie Texte im besten möglichen Licht (im Sinne des „Principle of Charity“), begründen Sie Ihre Urteile sorgfältig und geben Sie alle verwendeten Quellen präzise an. Es muss für Ihre Leser*innen jederzeit nachvollziehbar sein, ob Sie fremde Texte paraphrasieren oder Ihre eigenen Gedanken darstellen. Achten Sie dabei stets auf wissenschaftliche Redlichkeit und Integrität. Im Kapitel „VI Zitation“ wird ausführlich erläutert, wie Forschungsliteratur konkret und korrekt in die eigene Arbeit integriert wird.
+Um die Anforderungen an wissenschaftliches Arbeiten zu erfüllen, sollten Sie in Ihrer Hausarbeit grundsätzlich nur  zitier würdige Literatur verwenden. Das bedeutet, dass ausschließlich wissenschaftliche und glaubwürdige Quellen herangezogen werden dürfen. Gehen Sie dabei kritisch vor, indem Sie tragfähige Gegenargumente zu allen Überzeugungen in Betracht ziehen. Lesen und interpretieren Sie Texte im besten möglichen Licht (im Sinne des „Principle of Charity“), begründen Sie Ihre Urteile sorgfältig und geben Sie alle verwendeten Quellen präzise an. Es muss für Ihre Leser*innen jederzeit nachvollziehbar sein, ob Sie fremde Texte paraphrasieren oder Ihre eigenen Gedanken darstellen. Achten Sie dabei stets auf wissenschaftliche Redlichkeit und Integrität. Im Kapitel „VI Zitation“ wird ausführlich erläutert, wie Forschungsliteratur konkret und korrekt in die eigene Arbeit integriert wird.
 
 
 Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen – verschiedene Methoden stehen Ihnen zur Auswahl.
@@ -127,13 +127,17 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 
 **Formale Gliederung der Arbeit**
 
-* Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer
+* Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
+[Mustertitelblatt für Seminarhausarbeiten](_Titelblätter_Philosophie_CAU.pdf)
+
 * Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 * Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
 * Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
 * Schluss: Zusammenfassung und ggf. Ausblick
 * Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
 * Eigenständigkeitserklärung: Eine unterschriebene Erklärung zur selbstständigen Anfertigung der Arbeit
+
+[Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
 
 
 
@@ -363,3 +367,6 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+
+
+[def]: https://
