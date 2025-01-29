@@ -97,15 +97,15 @@ Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezia
   * Nutzen Sie Filtermöglichkeiten in Datenbanken (z.B. Veröffentlichungsjahr, Autor, Sprache, Peer-Reviewed).
   * Durchsuchen Sie die Literaturlisten relevanter Werke, um weiterführende Quellen zu finden.
 
-    * Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
+  * Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
 
-      * Karlsruher Virtueller Katalog (KVK)
+    * Karlsruher Virtueller Katalog (KVK)
 
-      * Deutsche Nationalbibliothek
+     * Deutsche Nationalbibliothek
 
       * Lokale Bibliothekskataloge (z.B. OPAC).
 
-    * Fach-Datenbanken für Philosophie:
+  * Fach-Datenbanken für Philosophie:
 
       * PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
 
@@ -115,9 +115,9 @@ Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezia
 
     * Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
 
-    * Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
+  * Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
 
-    * Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
+  * Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
 
 ## IV. Gliederung
 
@@ -128,7 +128,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 * Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-  [Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdfpdfpdfpdf)
+  [Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdf)
 
 * Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 * Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
@@ -282,15 +282,12 @@ Je nach Publikation gelten folgende Richtlinien:
   Kennzeichnung: Paraphrasen werden nicht in Anführungszeichen gesetzt, jedoch muss die Quelle genannt werden.
 
   Quellenangabe: In der Fußnote oder in Klammern nach der Paraphrase.
- 
+
   Beispiel:
+  Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt. [^2]
+
+[^2] Vgl. Weil, Über die Ursachen von Freiheit, 40f.
  
-  Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt.<sup>2</sup></p>
-
-
-  <sup>2</sup> Vgl. Weil, Über die Ursachen von Freiheit, 40f.
- 
-
 ## VI. Sprache und Stil 
 
 ![alt-text](4_4.png)
@@ -339,6 +336,9 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 
    * Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie häufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
 
+   ## Editorische Korrektheit
+
+
 
 
 ## VII. Literaturverzeichnis 
@@ -368,3 +368,5 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+
+
