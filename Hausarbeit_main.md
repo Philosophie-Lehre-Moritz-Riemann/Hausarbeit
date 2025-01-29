@@ -128,7 +128,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 * Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-[Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdf)
+  [Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdfpdfpdfpdf)
 
 * Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 * Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
@@ -268,7 +268,7 @@ Je nach Publikation gelten folgende Richtlinien:
 
   Beispiel:
 
-  Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil.<sup>1</sup></p>
+  Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil.<sup>1</sup>
 
   <sup>1</sup>Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
 
@@ -368,6 +368,3 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
-
-
-[def]: https://
