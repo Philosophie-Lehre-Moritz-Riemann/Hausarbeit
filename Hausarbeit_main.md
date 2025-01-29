@@ -128,7 +128,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 * Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-[Mustertitelblatt für Seminarhausarbeiten](_Titelblätter_Philosophie_CAU.pdf)
+[Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdf)
 
 * Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 * Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
@@ -137,7 +137,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 * Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
 * Eigenständigkeitserklärung: Eine unterschriebene Erklärung zur selbstständigen Anfertigung der Arbeit
 
-[Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
+  [Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
 
 
 
