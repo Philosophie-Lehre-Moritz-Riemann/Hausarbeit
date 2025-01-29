@@ -367,7 +367,7 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
-Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004. 
 
 
 
