@@ -101,17 +101,17 @@ Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezia
 
     * Karlsruher Virtueller Katalog (KVK)
 
-     * Deutsche Nationalbibliothek
+    * Deutsche Nationalbibliothek
 
-      * Lokale Bibliothekskataloge (z.B. OPAC).
+    * Lokale Bibliothekskataloge (z.B. OPAC).
 
   * Fach-Datenbanken für Philosophie:
 
-      * PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
+    * PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
 
-      * JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
+    * JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
 
-      * ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
+    * ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
 
     * Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
 
