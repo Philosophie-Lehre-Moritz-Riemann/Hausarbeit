@@ -152,7 +152,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 * Worum geht es? (Thema und Fragestellung)
 * Warum ist das Thema relevant? (nur falls passend, z.B. durch Bezug auf größere philosophische Projekte)
 * Wie wird methodisch vorgegangen? (Gliederung der Arbeit)
-* Dabei sollten biographische Informationen zur Autorin oder Allgemeinplätze vermieden werden. Persönliche Meinungen oder subjektive Bezüge zum Thema gehören nicht in die Einleitung. Als Faustregel gilt: Die Einleitung sollte nicht mehr als 10 % des gesamten Textumfangs ausmachen.
+* Dabei sollten biografische Informationen zur Autorin oder Allgemeinplätze vermieden werden. Persönliche Meinungen oder subjektive Bezüge zum Thema gehören nicht in die Einleitung. Als Faustregel gilt: Die Einleitung sollte nicht mehr als 10 % des gesamten Textumfangs ausmachen.
 
   
 **Hauptteil:** 
@@ -175,7 +175,7 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 
 * **Beispiel** 
 
-  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
+  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
 
 
 **Schluss:** 
@@ -194,97 +194,96 @@ Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um 
 
 * Transparenz: Jede fremde Idee, jedes Zitat oder jede Paraphrase muss klar als solche gekennzeichnet werden.
 * Nachvollziehbarkeit: Die verwendeten Quellen müssen für Leser*innen eindeutig auffindbar sein.
-* Einheitlichkeit: Ein einmal gewähltes Zitationssystem sollte konsequent in der gesamten Arbeit beibehalten werden.
+* Einheitlichkeit: Eine einmal gewählte Zitationsweise sollte konsequent in der gesamten Arbeit beibehalten werden.
 
-**Zitationsformen**
+**Zitationsweise**
 
 In der Philosophie werden vor allem zwei Zitationsweisen verwendet. Welches System zu verwenden ist, hängt häufig von den Vorgaben Ihrer Universität oder Ihres Dozenten ab. Konsistenz innerhalb der Arbeit ist entscheidend.
 
 * Deutsche Zitierweise (Fußnoten)
   
-  Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
+  * Die Quellenangabe erfolgt in einer Fußnote am unteren Seitenrand.
    
-  Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
+    Bei der ersten Nennung wird die vollständige Literaturangabe genannt:
 
-  Beispiel:
+    Beispiel:
 
-  Autor, Titel, Erscheinungsort, Erscheinungsjahr, Seitenangabe. 
-
-
-  
-  Bei wiederholter Nennung derselben Quelle kann eine Kurzform verwendet werden:
-
-  
-  Beispiel: Autor, Kurztitel, Seitenangabe.
+    Autor, Titel, Erscheinungsort, Erscheinungsjahr, Seitenangabe. 
+    
+    Bei wiederholter Nennung derselben Quelle kann eine Kurzform verwendet werden:
+    
+    Beispiel: Autor, Kurztitel, Seitenangabe.
 
 
 
 * Harvard-Zitation (Kurzverweis im Text)
-    * Die Quellenangabe erfolgt in Klammern direkt im Text: Beispiel: (Autor Jahr, Seitenzahl).
+    * Die Quellenangabe erfolgt in Klammern direkt im Text: 
+    
+      Beispiel: (Autor Jahr, Seitenzahl).
        
         Am Ende der Arbeit wird die vollständige Angabe im Literaturverzeichnis gemacht.
 
-* Korrektes Zitieren: 
+**Korrektes Zitieren:** 
 
 Je nach Publikation gelten folgende Richtlinien:
   
-**Monographien:** 
+* Monographien:
   
-Vorname Nachname, Titel. Untertitel, herausgegeben von Vorname Nachname (falls zutreffend), Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seite.
+  Vorname Nachname, Titel. Untertitel, herausgegeben von Vorname Nachname (falls zutreffend), Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seite.
 
 
-   **Bände aus Gesamtausgaben:**  
+* Bände aus Gesamtausgaben:  
 
    Nach dem Untertitel wird ergänzt: Gesamtausgabe, Bandnummer, herausgegeben von Vorname Nachname.
 
-  **Aufsätze in Sammelbänden:** 
+* Aufsätze in Sammelbänden: 
    
-Vorname Nachname, Titel. Untertitel, in: Vorname Nachname/Vorname Nachname (Hrsg.), Titel des Sammelbandes, Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seitenzahlen: zitierte Seite.
+  Vorname Nachname, Titel. Untertitel, in: Vorname Nachname/Vorname Nachname (Hrsg.), Titel des Sammelbandes, Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seitenzahlen: zitierte Seite.
 
 
-**Aufsätze in Zeitschriften:** 
+* Aufsätze in Zeitschriften:
 
-Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (Erscheinungsjahr), Seitenzahlen: zitierte Seite.
+  Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (Erscheinungsjahr), Seitenzahlen: zitierte Seite.
 
-   **Artikel in einem Lexikon:**
+* Artikel in einem Lexikon:
 
    Vorname Nachname, Titel des Artikels, in: Name des Lexikons, herausgegeben von Vorname Nachname, Bandnummer, Erscheinungsort, Auflage (falls vorhanden), Erscheinungsjahr, Seiten- oder Spaltenangabe: zitierte Seite/Spalte.
   
-   
-* **Direkte Zitate**
+  **Zitationsform**  
+* Direkte Zitate
 
-  *Definition:* Der exakte Wortlaut einer Textstelle wird übernommen.
+  Definition: Der exakte Wortlaut einer Textstelle wird übernommen.
   
-  *Kennzeichnung:* Direkte Zitate werden in Anführungszeichen gesetzt.
+  Kennzeichnung: Direkte Zitate werden in Anführungszeichen gesetzt.
 
-  *Quellenangabe:* Bei direkten Zitaten ist die genaue Seitenzahl zwingend erforderlich.
+  Quellenangabe: Bei direkten Zitaten ist die genaue Seitenzahl zwingend erforderlich.
 
-  *Hervorhebungen:* Wenn Hervorhebungen (z.B. Fettdruck oder Kursivierung) hinzugefügt oder weggelassen werden, muss dies kenntlich gemacht werden:
+  Hervorhebungen: Wenn Hervorhebungen (z.B. Fettdruck oder Kursivierung) hinzugefügt oder weggelassen werden, muss dies kenntlich gemacht werden:
 
-    *Hervorhebung im Originaltext*, dann wird in der Quellenangabe folgendes angegeben: „Hervorhebung im Original“
+  Hervorhebung im Originaltext, dann wird in der Quellenangabe folgendes angegeben: „Hervorhebung im Original“
 
-  *Eigene Hervorhebung*, dann wird in der Quellenangabe folgendes angegeben: „Hervorhebung d. Verf.“ – Man kann stattdessen aber auch die eigenen Initialien angeben; „Hervorhebung v. M.M. (Maxime Mustermann)
+  Eigene Hervorhebung, dann wird in der Quellenangabe folgendes angegeben: „Hervorhebung d. Verf.“ – Man kann stattdessen aber auch die eigenen Initialien angeben; „Hervorhebung v. M.M. (Maxime Mustermann)
 
-  *Auslassungen:* „Der Satz ist […] Ausdrucksform des Gedankens“ (ebd.).
+  Auslassungen: „Der Satz ist […] Ausdrucksform des Gedankens“ (ebd.).
 
-  **Beispiel:**
+  Beispiel:
 
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil.<sup>1</sup></p>
 
   <sup>1</sup>Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
 
 
-* **Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:** 
+* Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
 
-  *Wichtig:* Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
+  Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
 
-  *Definition:* Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.
+  Definition: Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.
  
-  *Kennzeichnung:* Paraphrasen werden nicht in Anführungszeichen gesetzt, jedoch muss die Quelle genannt werden.
+  Kennzeichnung: Paraphrasen werden nicht in Anführungszeichen gesetzt, jedoch muss die Quelle genannt werden.
 
-  *Quellenangabe:* In der Fußnote oder in Klammern nach der Paraphrase.
+  Quellenangabe: In der Fußnote oder in Klammern nach der Paraphrase.
  
-  **Beispiel:**
+  Beispiel:
  
   Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt.<sup>2</sup></p>
 
@@ -298,30 +297,38 @@ Vorname Nachname, Titel. Untertitel, in: Name der Zeitschrift, Jahrgangsnummer (
 
 Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Regeln, die sich an den Anforderungen wissenschaftlichen Schreibens orientieren. In der Philosophie kommt es vor allem darauf an, präzise, klar und nachvollziehbar zu argumentieren, wobei die Sprache zugleich sachlich und formal sein muss.
 
+**Besonderheiten des philosophischen Schreibens**
+
+  * Argumentative Strenge: In der Philosophie sind Begründungen zentral. Jeder Schritt Ihrer Argumentation muss klar begründet und nachvollziehbar sein. Beispiele und Belege helfen dabei, Ihre Aussagen zu untermauern.
+
+  * Genauigkeit bei Textinterpretationen: Achten Sie auf exakte Textstellen und deren Kontext. Interpretieren Sie keine Aussagen hinein, die der Autor nicht gemacht hat.
+
+  * Kritische Auseinandersetzung: Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.
+
+  **Besonderheiten des wissenschaftlichen Schreibens im Allgemeinen**
+
 * Sachlichkeit und Neutralität:
   
   Vermeiden Sie emotionale Ausdrücke, wertende Formulierungen oder subjektive Einschätzungen wie „Ich finde“ oder „Meiner Meinung nach“. Stattdessen sollte Ihre Argumentation logisch, nachvollziehbar und auf Textgrundlagen gestützt sein.
-
-* Präzision und Klarheit:
-
-  Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
 
 * Objektivität:
 
    Vermeiden Sie persönliche Kommentare oder unsachliche Meinungsäußerungen. Stattdessen sollten Argumente und Quellen im Zentrum stehen.
 
-**Beispiele:**
+* Präzision und Klarheit:
 
-<ins>Nicht präzise:</ins>
+  Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
 
-„Kant hat irgendwie eine Meinung dazu, dass Moral und Vernunft wichtig sind.“
-Präzise:
-„Kant argumentiert, dass die Moral aus der praktischen Vernunft entspringt, welche autonom Gesetze für das Handeln setzt.“
+    Beispiele:
 
-<ins>Präzise:</ins>
+  <ins>Nicht präzise:</ins>
+
+  „Kant hat irgendwie eine Meinung dazu, dass Moral und Vernunft wichtig sind.“
+
+  <ins>Präzise:</ins>
 
 
- „Kant argumentiert, dass die Moral aus der praktischen Vernunft entspringt, welche autonom Gesetze für das Handeln setzt.“
+  „Kant argumentiert, dass die Moral aus der praktischen Vernunft entspringt, welche autonom Gesetze für das Handeln setzt.“
 
 * Formaler Sprachgebrauch 
   * Verwendung der dritten Person: Wissenschaftliche Arbeiten werden nicht in der Ich-Perspektive verfasst. Statt „Ich werde zeigen“ schreiben Sie besser „Es wird gezeigt“ oder „Diese Arbeit zeigt …“.
@@ -330,15 +337,9 @@ Präzise:
 
   * Fachsprache und Definitionen: Verwenden Sie präzise Begriffe, die in der Philosophie gängig sind. Falls notwendig, definieren Sie spezielle Begriffe oder Konzepte, um sicherzustellen, dass sie korrekt verstanden werden.
 
-   * Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie h√§ufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
+   * Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie häufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
 
-* Besonderheiten des philosophischen Schreibens
 
-  **Argumentative Strenge:** In der Philosophie sind Begründungen zentral. Jeder Schritt Ihrer Argumentation muss klar begründet und nachvollziehbar sein. Beispiele und Belege helfen dabei, Ihre Aussagen zu untermauern.
-
-  **Genauigkeit bei Textinterpretationen:** Achten Sie auf exakte Textstellen und deren Kontext. Interpretieren Sie keine Aussagen hinein, die der Autor nicht gemacht hat.
-
-  **Kritische Auseinandersetzung:** Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.
 
 ## VII. Literaturverzeichnis 
 
@@ -346,17 +347,17 @@ Präzise:
 
 Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeichnis vollständig und alphabetisch sortiert aufgeführt werden. Die genaue Form hängt vom gewählten Zitationsstil ab. Beispiel für die häufige deutsche Zitierweise:
 
-**Monographie:**
+* Monographie:
 
- Weil, Simone (2021): Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, 3. Auflage, Zürich: Diaphanes Verlag.
+  Weil, Simone (2021): Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, 3. Auflage, Zürich: Diaphanes Verlag.
 
-**Aufsatz in einem Sammelband:**
+* Aufsatz in einem Sammelband:
 
-Habermas, Jürgen (1994): Handlungsrationalität und gesellschaftliche Rationalisierung, in: Dieter Thoma, Dieter (Hrsg.), Philosophische Theorien der Rationalität, Frankfurt a.M.: Suhrkamp, S. 35–67.
+  Habermas, Jürgen (1994): Handlungsrationalität und gesellschaftliche Rationalisierung, in: Dieter Thoma, Dieter (Hrsg.), Philosophische Theorien der Rationalität, Frankfurt a.M.: Suhrkamp, S. 35–67.
 
-**Zeitschriftenartikel:**
+* Zeitschriftenartikel: 
 
-Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
+  Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
 
 ## VIII. Literaturempfehlungen: 
 
