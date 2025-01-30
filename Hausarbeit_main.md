@@ -170,7 +170,53 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 
 Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
 
-## V. Zitation
+## V. Formatierung
+ ![alt-text](6.png)
+Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten - wenn nicht anders und individuell mit der/dem Dozent:in vereinbart. 
+
+- Das Inhaltsverzeichnis sollte klar strukturiert und einheitlich formatiert sein. Die Überschrift „Inhaltsverzeichnis“ wird i.d.R. linksbündig gesetzt. Die Gliederung kann bspw. in dezimaler Nummerierung, beispielsweise „1“, „1.1“ oder „1.1.1“,erfolgen. Jede Unterebene wird entsprechend eingerückt, um die Hierarchie der Kapitel deutlich zu machen. 
+
+  Die Schriftart und -größe sollten mit dem restlichen Dokument übereinstimmen. Die Seitenzahlen der einzelnen Kapitel und Unterkapitel werden rechtsbündig ausgerichtet, wobei sie durch eine Reihe von Punkten oder Leerzeichen von der Überschrift getrennt sind. Alle Überschriften im Inhaltsverzeichnis müssen exakt mit denen im Text übereinstimmen.
+
+  Um Fehler zu vermeiden und die Übersichtlichkeit zu gewährleisten, empfiehlt es sich, die automatische Funktion für Inhaltsverzeichnisse in Textverarbeitungsprogrammen zu nutzen. So bleibt das Verzeichnis professionell und gut lesbar.
+
+- Absätze werden nicht durch Leerzeichen gesetzt. Nutzen Sie dafür ggf. die Absatzformatierungen Ihres Textverarbeitungsprogramms oder passen Sie diese ggf. individuell an.
+
+- Zwischen Anführungszeichen („) und Abführungszeichen (“)unterscheiden! Anführungszeichen markieren den Anfang eines direkten Zitats und Abführungszeichen schließen dieses ab. Zitieren Sie ein Zitat in dem bereits zitiert wird, dann nutzen Sie die einfachen Anführungszeichen für das Zitat im Zitat. 
+  
+  Beispiel: Ebenfalls muss hier festgehalten werden, dass beide in ihrer letzten Konsequenz zwei Grundtriebe darstellen, die wie eine „determinierende Kraft, die den Lebensprozessen eine bestimmte ‚Richtung‘ gibt, im Sinne von ‚Lebensprinzipien‘“[^1] wirken.
+  
+  [^1] Herbert Marcuse, Triebstruktur und Gesellschaft. Ein philosophischer Beitrag zu Sigmund Freud, in: Herbert Marcuse, Schriften, Band 5, Frankfurt am Main: Suhrkamp Verlag 1970, S.32.
+
+- Fußnoten können mit der Fußnotenautomatik des Textverarbeitungsprogramms einheitlich als Fußnoten konfiguriert werden.
+
+- Falls notwendig, den typografischen Apostroph verwenden: ’ (im Gegensatz zu ')
+
+- Falls Sie sich in Ihrer Arbeit dazu entscheiden zu gendern, dann achten Sie Einheitlichkeit. 
+
+- Unterscheiden Sie zwischen einem Viertelgeviertstrich und Halbgeviertstrich bzw. Binde- und Gedankenstrich. Der Unterschied zwischen Bindestrich und Gedankenstrich liegt in der Schreibweise und ihren Verwendungszwecken.
+
+  Der Bindestrich: (- ; kurz) wird etwa verwendet für: 
+
+  - Zusammensetzungen mit Abkürzungen, Wortgruppen, Ziffern und Zeichen zu bilden
+  - Wortbedeutungen hervorzuheben
+  - Ergänzungen von Wörtern anzuzeigen
+  - Wörter am Zeilenende zu trennen
+
+  Der Gedankenstrich (–- ; lang) wird etwa verwendet für: 
+
+  - Einschübe in Sätzen
+  - bei Anhängen 
+  - Als Minuszeichen 
+  - Als Zeichen für das Wort „bis“ (z.B. zwischen Seitenzahlen)
+
+- Mit Hervorhebungen sollte im Text sparsam und einheitlich umgegangen werden (Unterstreichungen, Fettierungen, Kursivierung - i.d.R. keine Kapitälchen).
+
+- Aufzählungen können mit Gedankenstrichen, Punkten, Buchstaben oder Ziffern markiert werden. Auch hier muss die Einheitlichkeit eingehalten werden.
+
+- Bei Adjektivierungen von Eigennamen auf die richtige Schreibweise achten. Richtig sind folgende Versionen: hegelsche (klein und ohne Apostroph) und Hegel’sche (groß, mit Apostroph). Nicht mehr üblich ist die Variante Hegelsche (groß, ohne Apostroph).
+
+## VI. Zitation
 
 ![alt-text](2_2.png)
 
@@ -251,9 +297,9 @@ Je nach Publikation gelten folgende Richtlinien:
 
   Beispiel:
 
-  Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^1]
+  Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^2]
 
-  [^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
+  [^2] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
 - Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
 
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
@@ -265,9 +311,9 @@ Je nach Publikation gelten folgende Richtlinien:
   Quellenangabe: In der Fußnote oder in Klammern nach der Paraphrase.
 
   Beispiel:
-  Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt. [^2]
+  Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt. [^3]
 
-[^2] Vgl. Weil, Über die Ursachen von Freiheit, 40f.
+[^3] Vgl. Weil, Über die Ursachen von Freiheit, 40f.
 
 ## VI. Sprache und Stil
 
@@ -315,9 +361,6 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
   - Fachsprache und Definitionen: Verwenden Sie präzise Begriffe, die in der Philosophie gängig sind. Falls notwendig, definieren Sie spezielle Begriffe oder Konzepte, um sicherzustellen, dass sie korrekt verstanden werden.
 
   - Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie häufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
-
-## Editorische Korrektheit
- ![alt-text](6.png)
 
 ## VII. Literaturverzeichnis
 
