@@ -1,4 +1,4 @@
-.# Orientierungshilfe zur Anfertigung einer wissenschaftlichen Hausarbeit im Fach Philosophie
+# Orientierungshilfe zur Anfertigung einer wissenschaftlichen Hausarbeit im Fach Philosophie
 
 ![alt-text](3%20Kopie.png)
 
@@ -338,9 +338,7 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
   Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
 
 ## VIII. Literaturempfehlungen
-
-![alt-text][def]
-
+![alt-text](5.png)
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
