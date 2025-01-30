@@ -1,4 +1,4 @@
-# Orientierungshilfe zur Anfertigung einer wissenschaftlichen Hausarbeit im Fach Philosophie
+.# Orientierungshilfe zur Anfertigung einer wissenschaftlichen Hausarbeit im Fach Philosophie
 
 ![alt-text](3%20Kopie.png)
 
@@ -6,9 +6,9 @@
 
 ![alt-text](1.png)
 
-Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem/ einer Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.</p>
+Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem/ einer Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.
 
-Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu trainieren. Dies schließt eine selbstständige und fundierte Auseinandersetzung mit philosophischen Themen und Positionen ein, die aus einer gründlichen Beschäftigung und kritischen Auseinandersetzung mit der im Seminar behandelten Primärliteratur sowie relevanter Fachliteratur folgt und nicht allein auf Basis eigener Überlegungen vollzogen wird. Ihre eigene Meinung ist von Bedeutung, allerdings müssen Sie sie gut begründen. Es geht bei einer wissenschaftlichen philosophischen Hausarbeit nicht primär darum, die eigene Meinung bloß mitzuteilen, sondern darum, andere durch Argumente von ihr zu überzeugen.</p>
+Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu trainieren. Dies schließt eine selbstständige und fundierte Auseinandersetzung mit philosophischen Themen und Positionen ein, die aus einer gründlichen Beschäftigung und kritischen Auseinandersetzung mit der im Seminar behandelten Primärliteratur sowie relevanter Fachliteratur folgt und nicht allein auf Basis eigener Überlegungen vollzogen wird. Ihre eigene Meinung ist von Bedeutung, allerdings müssen Sie sie gut begründen. Es geht bei einer wissenschaftlichen philosophischen Hausarbeit nicht primär darum, die eigene Meinung bloß mitzuteilen, sondern darum, andere durch Argumente von ihr zu überzeugen.
 
 ## I. Themenwahl und Vorbereitung
 
@@ -101,7 +101,7 @@ Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezia
 
     - Lokale Bibliothekskataloge (z.B. OPAC).
 
-  - Fach-Datenbanken für Philosophie:
+  -   Fach-Datenbanken für Philosophie:
 
     - PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
 
@@ -132,8 +132,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 - Schluss: Zusammenfassung und ggf. Ausblick
 - Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
 - Eigenständigkeitserklärung: Eine unterschriebene Erklärung zur selbstständigen Anfertigung der Arbeit
-
-  [Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
+[Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
 
 **Der Aufbau des Textes lässt sich in drei Hauptteile gliedern:**
 
@@ -166,9 +165,6 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 - **Beispiel**
 
   Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
-
-  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
-
 
 **Schluss:**
 
@@ -257,9 +253,7 @@ Je nach Publikation gelten folgende Richtlinien:
 
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^1]
 
-
   [^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
-  
 - Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
 
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
@@ -303,18 +297,6 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 
   Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
 
-- Sachlichkeit und Neutralität:
-  
-  Vermeiden Sie emotionale Ausdrücke, wertende Formulierungen oder subjektive Einschätzungen wie „Ich finde“ oder „Meiner Meinung nach“. Stattdessen sollte Ihre Argumentation logisch, nachvollziehbar und auf Textgrundlagen gestützt sein.
-
-- Objektivität:
-
-   Vermeiden Sie persönliche Kommentare oder unsachliche Meinungsäußerungen. Stattdessen sollten Argumente und Quellen im Zentrum stehen.
-
-- Präzision und Klarheit:
-
-  Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
-
     Beispiele:
 
   <ins>Nicht präzise:</ins>
@@ -334,7 +316,8 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 
   - Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie häufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
 
-  ## Editorische Korrektheit
+## Editorische Korrektheit
+ ![alt-text](6.png)
 
 ## VII. Literaturverzeichnis
 
