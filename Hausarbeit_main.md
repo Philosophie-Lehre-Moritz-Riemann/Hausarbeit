@@ -167,6 +167,9 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 
   Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
 
+  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
+
+
 **Schluss:**
 
 Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
@@ -254,10 +257,11 @@ Je nach Publikation gelten folgende Richtlinien:
 
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^1]
 
+
   [^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
   
 - Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
-^
+
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
 
   Definition: Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.
@@ -286,6 +290,18 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 - Kritische Auseinandersetzung: Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.
 
   **Besonderheiten des wissenschaftlichen Schreibens im Allgemeinen**
+
+- Sachlichkeit und Neutralität:
+  
+  Vermeiden Sie emotionale Ausdrücke, wertende Formulierungen oder subjektive Einschätzungen wie „Ich finde“ oder „Meiner Meinung nach“. Stattdessen sollte Ihre Argumentation logisch, nachvollziehbar und auf Textgrundlagen gestützt sein.
+
+- Objektivität:
+
+   Vermeiden Sie persönliche Kommentare oder unsachliche Meinungsäußerungen. Stattdessen sollten Argumente und Quellen im Zentrum stehen.
+
+- Präzision und Klarheit:
+
+  Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
 
 - Sachlichkeit und Neutralität:
   
@@ -340,7 +356,7 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
 
 ## VIII. Literaturempfehlungen
 
-![alt-text](5.png)
+![alt-text][def]
 
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
