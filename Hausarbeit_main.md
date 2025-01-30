@@ -253,11 +253,9 @@ Je nach Publikation gelten folgende Richtlinien:
   Beispiel:
 
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^1]
-
-  [^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
-  
+[^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
 - Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
-^
+
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
 
   Definition: Der Inhalt eines fremden Gedankens wird sinngemäß und in eigenen Worten wiedergegeben.
@@ -340,7 +338,7 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
 
 ## VIII. Literaturempfehlungen
 
-![alt-text](5.png)
+![alt-text][def]
 
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
