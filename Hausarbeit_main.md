@@ -167,6 +167,9 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 
   Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
 
+  Veranschaulicht die Argumentation und macht sie überprüfbar. Beispiele können auch außerhalb des Werkes des behandelten Autors bzw. der behandelten Autorin liegen, was zeigt, dass die zugrundeliegende Philosophie anwendungsfähig und robust ist.
+
+
 **Schluss:**
 
 Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
@@ -253,7 +256,10 @@ Je nach Publikation gelten folgende Richtlinien:
   Beispiel:
 
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^1]
-[^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
+
+
+  [^1] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
+  
 - Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
 
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
@@ -284,6 +290,18 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 - Kritische Auseinandersetzung: Zeigen Sie nicht nur Verständnis für die Positionen anderer Autor*innen, sondern prüfen Sie sie kritisch und wägen Sie Einwände ab.
 
   **Besonderheiten des wissenschaftlichen Schreibens im Allgemeinen**
+
+- Sachlichkeit und Neutralität:
+  
+  Vermeiden Sie emotionale Ausdrücke, wertende Formulierungen oder subjektive Einschätzungen wie „Ich finde“ oder „Meiner Meinung nach“. Stattdessen sollte Ihre Argumentation logisch, nachvollziehbar und auf Textgrundlagen gestützt sein.
+
+- Objektivität:
+
+   Vermeiden Sie persönliche Kommentare oder unsachliche Meinungsäußerungen. Stattdessen sollten Argumente und Quellen im Zentrum stehen.
+
+- Präzision und Klarheit:
+
+  Formulieren Sie so eindeutig wie möglich. Vermeiden Sie umgangssprachliche oder mehrdeutige Begriffe und formulieren Sie Sätze prägnant. In der Philosophie zählt jede Nuance; unklare Formulierungen können zu Missverständnissen führen.
 
 - Sachlichkeit und Neutralität:
   
@@ -345,8 +363,4 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
-
-
-
-
 
