@@ -126,11 +126,17 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
 ([Musterdeckblatt](Titelblätter_Philosophie_CAU.pdf))
+
 - Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen 
+
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
+
 - Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
+
 - Schluss: Zusammenfassung und ggf. Ausblick
+
 - Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
+
 - Eigenständigkeitserklärung: Eine unterschriebene Erklärung zur selbstständigen Anfertigung der Arbeit
 ([Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf))
 
