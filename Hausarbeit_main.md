@@ -124,7 +124,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-  [Mustertitelblatt für Seminararbeiten](_Titelblätter_Philosophie_CAU.pdf)
+[Musterdeckblatt](_Titelblätter_Philosophie_CAU.pdf)
 
 - Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
@@ -193,7 +193,7 @@ Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten - we
 
 - Falls notwendig, den typografischen Apostroph verwenden: ’ (im Gegensatz zu ').
 
-- Falls Sie sich in Ihrer Arbeit dazu entscheiden zu gendern, dann achten Sie auf Einheitlichkeit. 
+- Falls Sie sich in Ihrer Arbeit dazu entscheiden, zu gendern, dann achten Sie auf Einheitlichkeit. 
 
 - Unterscheiden Sie zwischen einem Viertelgeviertstrich und Halbgeviertstrich bzw. Binde- und Gedankenstrich. Der Unterschied zwischen Bindestrich und Gedankenstrich liegt in der Schreibweise und ihren Verwendungszwecken.
 
@@ -301,7 +301,7 @@ Je nach Publikation gelten folgende Richtlinien:
   Der Irrglaube aber vom Menschen, der durch diese höheren Stufen „schrittweise vom Sklaven zum Herrn der Natur“  wurde, enttarnt Weil als sein Gegenteil. [^2]
 
   [^2] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
-- Paraphrasen(Indirekte Zitate) am Beispiel der Harvard-Zitation:
+- Paraphrasen (Indirekte Zitate) am Beispiel der Harvard-Zitation:
 
   Wichtig: Auch bei Paraphrasen ist die genaue Seitenzahl anzugeben, da sie sich auf konkrete Textstellen beziehen.
 
@@ -316,7 +316,7 @@ Je nach Publikation gelten folgende Richtlinien:
 
 [^3] Vgl. Weil, Über die Ursachen von Freiheit, 40f.
 
-## VI. Sprache und Stil
+## VII. Sprache und Stil
 
 ![alt-text](4_4.png)
 
@@ -363,7 +363,7 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 
   - Verwendung von Konjunktiv und indirekter Rede: Wenn fremde Positionen referiert werden, nutzen Sie häufig den Konjunktiv oder indirekte Rede, um Distanz zu schaffen und Neutralität zu wahren.
 
-## VII. Literaturverzeichnis
+## VIII. Literaturverzeichnis
 
  ![alt-text](5_5.png)
 
@@ -381,10 +381,12 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
 
   Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
 
-## VIII. Literaturempfehlungen
+## IV. Literaturempfehlungen
 ![alt-text](5.png)
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+
+[def]: _Titelblätter_Philosophie_CAU.pdf
