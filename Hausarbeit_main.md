@@ -124,7 +124,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-[Musterdeckblatt](_Titelblätter_Philosophie_CAU.pdf) 
+[Musterdeckblatt](Titelblätter_Philosophie_CAU.pdf) 
 - Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
 - Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
