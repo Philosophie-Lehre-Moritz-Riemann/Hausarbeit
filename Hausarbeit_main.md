@@ -32,7 +32,6 @@ Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bi
 - Wie ist die Textstelle Y im Werk von A genau zu interpretieren?
 - A und B deuten die Textstelle Y auf völlig unterschiedliche Weise. Welche Argumente sprechen für die Interpretation von A, welche für die von B?
 
-
 ## II. Themenabsprache
 
 ![alt-text](8.png)
@@ -395,3 +394,4 @@ Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mi
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+
