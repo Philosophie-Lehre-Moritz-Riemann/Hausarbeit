@@ -6,7 +6,7 @@
 
 ![alt-text](1.png)
 
-Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem/ einer Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.
+Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem bzw. einer philosophischen Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.
 
 Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu trainieren. Dies schließt eine selbstständige und fundierte Auseinandersetzung mit philosophischen Themen und Positionen ein, die aus einer gründlichen Beschäftigung und kritischen Auseinandersetzung mit der im Seminar behandelten Primärliteratur sowie relevanter Fachliteratur folgt und nicht allein auf Basis eigener Überlegungen vollzogen wird. Ihre eigene Meinung ist von Bedeutung, allerdings müssen Sie sie gut begründen. Es geht bei einer wissenschaftlichen philosophischen Hausarbeit nicht primär darum, die eigene Meinung bloß mitzuteilen, sondern darum, andere durch Argumente von ihr zu überzeugen.
 
@@ -18,20 +18,20 @@ Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Ei
 
 Überlegen Sie sich, welcher Themenbereich oder welche im Seminar besprochenen Schwerpunkte Sie interessieren.
 
-- Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monografie, Sammelband, relevanter Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.
+- Wenn Sie sich für einen Themenbereich entschieden haben und innerhalb dieses Bereichs nach einem passenden Thema suchen, kann es hilfreich sein, aktuelle Forschungsliteratur (Monografie, Sammelband, relevante Aufsätze) zu diesem Thema zu lesen. Dabei verschaffen Sie sich nicht nur einen Überblick über den aktuellen Forschungsstand, sondern können auch Fragestellungen, Kontroversen oder Ansätze identifizieren, die Ihnen als Ausgangspunkt für Ihre eigene Arbeit dienen könnten. Achten Sie darauf, unterschiedliche Perspektiven zu berücksichtigen, um ein möglichst breites Verständnis des Themenbereichs zu entwickeln.
 
 - Beim Lesen sollten Sie nicht allein darauf achten, welche spezifischen Fragestellungen Ihr Interesse wecken, sondern auch, an welchen Stellen Ihnen der Verfasserin bzw. des Verfassers schwer nachvollziehbar oder möglicherweise fehlerhaft erscheint. Solche Textstellen geben häufig eine gute Grundlage für die Inspiration einer eigenen Ausgangsthese.
 
 - Das Thema Ihrer Hausarbeit sollte klar eingegrenzt und nicht zu breit gefasst sein. Es sollte grundsätzlich eine eng umrissene Fragestellung gründlich bearbeitet werden als eine weitläufige oder offene Fragestellung, die i.d.R. im Rahmen einer Hausarbeit nur eine oberflächliche Untersuchung erlaubt.
 
-Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bildet.  Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.
+Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bildet.  Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte.
 
 - Bietet A eine überzeugende Lösung für das Problem X?
 - A schlägt Lösung M für Problem X vor, während B Lösung N vorschlägt. Welche dieser Lösungen sind aus welchen Gründen überzeugender?
 - Ist die Kritik von A an der Theorie T stichhaltig?
 - Wie ist die Textstelle Y im Werk von A genau zu interpretieren?
 - A und B deuten die Textstelle Y auf völlig unterschiedliche Weise. Welche Argumente sprechen für die Interpretation von A, welche für die von B?
-- Achten Sie dabei stets auf Ihre These, die nicht trivial sein sollte, d.h. eine, dessen Aussage niemand bestreiten würde.
+
 
 ## II. Themenabsprache
 
@@ -39,7 +39,7 @@ Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bi
 
 Es wird allgemein empfohlen, das Thema und die Vorgehensweise im Vorfeld mit der Lehrperson abzustimmen. In einigen Fällen wird dies sogar explizit verlangt. Ob die Absprache in Form einer Sprechstunde, via E-Mail oder eines Telefonats erfolgt, ist stets individuell abzusprechen.
 
-Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakultativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung. Das Exposé hilft dabei, das eigene Vorhaben zu planen, zu organisieren und mit den Betreuenden abzustimmen, um frühzeitig Feedback zu erhalten und mögliche Probleme zu identifizieren.
+Je nach Lehrperson kann ein Exposé als Grundlage für eine solche Absprache obligatorisch oder fakultativ sein. Ein Exposé einer wissenschaftlichen Arbeit dient dazu, das geplante Forschungsvorhaben klar und strukturiert darzulegen. Es bietet einen Überblick über das Thema, die zentrale Fragestellung, die Zielsetzung sowie die methodische Vorgehensweise der Arbeit. Zudem enthält es oft eine kurze Darstellung des Forschungsstandes und eine grobe Gliederung.
 
 Sollte Ihnen die Anfertigung eines Exposés offen gestellt sein, denken Sie dennoch daran, dass die Vorteile eines Exposés zu Ihren Gunsten ausfallen;
 
@@ -56,11 +56,11 @@ Sollte Ihnen die Anfertigung eines Exposés offen gestellt sein, denken Sie denn
 
 **Umgang mit Primär-und Forschungsliteratur**
 
-Fassen Sie Sekundärliteratur keinesfalls einfach nur zusammen, sondern nutzen Sie sie als Ausgangspunkt für eine eigenständige Argumentation und zur Unterstützung Ihrer eigenen Thesen.
+Fassen Sie Sekundärliteratur keinesfalls einfach nur zusammen, sondern nutzen Sie sie als Ausgangspunkt für eine eigenständige Argumentation sowie zur Unterstützung Ihrer eigenen Thesen.
 
 Um die Anforderungen an wissenschaftliches Arbeiten zu erfüllen, sollten Sie in Ihrer Hausarbeit grundsätzlich nur  zitier würdige Literatur verwenden. Das bedeutet, dass ausschließlich wissenschaftliche und glaubwürdige Quellen herangezogen werden dürfen. Gehen Sie dabei kritisch vor, indem Sie tragfähige Gegenargumente zu allen Überzeugungen in Betracht ziehen. Lesen und interpretieren Sie Texte im besten möglichen Licht (im Sinne des „Principle of Charity“), begründen Sie Ihre Urteile sorgfältig und geben Sie alle verwendeten Quellen präzise an. Es muss für Ihre Leser*innen jederzeit nachvollziehbar sein, ob Sie fremde Texte paraphrasieren oder Ihre eigenen Gedanken darstellen. Achten Sie dabei stets auf wissenschaftliche Redlichkeit und Integrität. Im Kapitel „VI Zitation“ wird ausführlich erläutert, wie Forschungsliteratur konkret und korrekt in die eigene Arbeit integriert wird.
 
-Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen – verschiedene Methoden stehen Ihnen zur Auswahl.
+Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen längeren Zeitraum erfolgt und die Primär- und Sekundärliteratur oft in Etappen gesichtet wird, empfiehlt es sich, Exzerpte zu den gelesenen Werken anzufertigen. Diese Exzerpte bieten Ihnen während des Schreibprozesses eine hilfreiche Übersicht über die zentralen Inhalte und sorgen für Orientierung. Wie Sie Ihre Exzerpte gestalten, bleibt Ihnen überlassen. Es stehen Ihnen verschiedene Methoden dafür zur Auswahl, z.B.
 
 - PLATO-Methode
 - Ausführliche Zusammenfassung der wichtigsten Textabschnitte und -stellen
@@ -70,7 +70,8 @@ Da das Schreiben einer wissenschaftlichen Hausarbeit in der Regel über einen l�
 
 **Literatursuche**
 
-Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezialisierten Datenbanken, Enzyklopädien und gezieltem Vorgehen. Primärliteratur bildet dabei das Fundament, während Sekundärliteratur zur Analyse, Diskussion und Einordnung dient. Ein methodisches Vorgehen und der gezielte Einsatz digitaler sowie analoger Ressourcen ermöglichen es, die relevante Forschungsliteratur für Ihre Hausarbeit effizient zu finden. Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden:
+Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezialisierte Datenbanken und Enzyklopädien mit einem gezielten Vorgehen. Primärliteratur bildet dabei das Fundament, während Sekundärliteratur zur Analyse, Diskussion und Einordnung dient. 
+Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden:
 
 - Klassische Werke und Primärtexte
 
@@ -79,7 +80,7 @@ Eine erfolgreiche Literatursuche kombiniert die Nutzung von Bibliotheken, spezia
 
 - Sekundärliteratur und Forschungsliteratur
 
-  - Aktuelle Monographien, Sammelbände oder Fachzeitschriften liefern Analysen, Interpretationen und Forschungskontroversen zu Ihrem Thema.
+  - Aktuelle Monografien, Sammelbände oder Fachzeitschriften liefern Analysen, Interpretationen und Forschungskontroversen zu Ihrem Thema.
   - Suchen Sie gezielt nach Rezensionen in Fachzeitschriften, um die Relevanz von Literatur einzuschätzen.
 
 - Orientierung und Grundlagenarbeit
@@ -124,14 +125,14 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-[Musterdeckblatt](Titelblätter_Philosophie_CAU.pdf) 
-- Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
+([Musterdeckblatt](Titelblätter_Philosophie_CAU.pdf))
+- Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen 
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
 - Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
 - Schluss: Zusammenfassung und ggf. Ausblick
 - Literaturverzeichnis: Alle in der Arbeit zitierten Quellen (und nur diese!)
 - Eigenständigkeitserklärung: Eine unterschriebene Erklärung zur selbstständigen Anfertigung der Arbeit
-[Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf)
+([Eigenständigkeitserklärung](_Eigenstaendigkeitserklaerung_philsem_1123.pdf))
 
 **Der Aufbau des Textes lässt sich in drei Hauptteile gliedern:**
 
