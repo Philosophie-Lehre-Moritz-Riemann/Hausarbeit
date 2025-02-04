@@ -124,8 +124,7 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 **Formale Gliederung der Arbeit**
 
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
-[Musterdeckblatt](_Titelblätter_Philosophie_CAU.pdf)
-
+[Musterdeckblatt](_Titelblätter_Philosophie_CAU.pdf) 
 - Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
 - Hauptteil: In mehrere Kapitel und ggf. Unterkapitel untergliedert
@@ -173,7 +172,7 @@ Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtig
 ## V. Formatierung
  ![alt-text](6.png)
 
-Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten - wenn nicht anders und individuell mit der/dem Dozent:in vereinbart. 
+Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wenn nicht anders und individuell mit der/dem Dozent:in vereinbart. 
 
 - Das Inhaltsverzeichnis sollte klar strukturiert und einheitlich formatiert sein. Die Überschrift „Inhaltsverzeichnis“ wird i.d.R. linksbündig gesetzt. Die Gliederung kann bspw. in dezimaler Nummerierung, beispielsweise „1“, „1.1“ oder „1.1.1“,erfolgen. Jede Unterebene wird entsprechend eingerückt, um die Hierarchie der Kapitel deutlich zu machen. 
 
@@ -383,10 +382,9 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
 
 ## IV. Literaturempfehlungen
 ![alt-text](5.png)
+
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
-
-[def]: _Titelblätter_Philosophie_CAU.pdf
