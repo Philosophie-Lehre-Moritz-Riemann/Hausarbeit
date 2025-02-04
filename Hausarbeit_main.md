@@ -1,10 +1,10 @@
 # Orientierungshilfe zur Anfertigung einer wissenschaftlichen Hausarbeit im Fach Philosophie
 
-![alt-text](3%20Kopie.png)
+![alt-text](0.png)
 
 ## Die philosophische Hausarbeit als Prüfungsformat
 
-![alt-text](1.png)
+![alt-text](2.png)
 
 Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem bzw. einer philosophischen Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.
 
@@ -12,7 +12,7 @@ Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu train
 
 ## I. Themenwahl und Vorbereitung
 
-![alt-text](7.png)
+![alt-text](3.png)
 
 Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Einordnungen und Argumentationsansätze bietet. Das Thema Ihrer Hausarbeit sollte thematisch im Rahmen des jeweiligen Seminars liegen. Idealerweise wählen Sie es selbst aus und besprechen es mit dem Seminarleiter oder der Seminarleiterin. Im besten Fall dient die geplante Hausarbeit der Vertiefung eigener fachlicher Interessen.
 
@@ -34,7 +34,7 @@ Formulieren Sie dazu eine zentrale Hauptfrage, die die Grundlage Ihrer Arbeit bi
 
 ## II. Themenabsprache
 
-![alt-text](8.png)
+![alt-text](2.png)
 
 Es wird allgemein empfohlen, das Thema und die Vorgehensweise im Vorfeld mit der Lehrperson abzustimmen. In einigen Fällen wird dies sogar explizit verlangt. Ob die Absprache in Form einer Sprechstunde, via E-Mail oder eines Telefonats erfolgt, ist stets individuell abzusprechen.
 
@@ -51,7 +51,7 @@ Sollte Ihnen die Anfertigung eines Exposés offen gestellt sein, denken Sie denn
 
 ## III. Literatur: Auswahl und Suche
 
-![alt-text](1_1.png)
+![alt-text](3.png)
 
 **Umgang mit Primär-und Forschungsliteratur**
 
@@ -117,7 +117,7 @@ Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden
 
 ## IV. Gliederung
 
-![alt text](2.png)
+![alt text](4.png)
 
 Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, die idealerweise vor dem eigentlichen Schreibprozess entwickelt wird. Zwar können sich einzelne Gliederungspunkte während des Schreibens verändern, solche Anpassungen sollten jedoch stets auf der Grundlage einer bereits vorhandenen Struktur des gesamten Textes erfolgen.
 
@@ -176,7 +176,7 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
 
 ## V. Formatierung
- ![alt-text](6.png)
+ ![alt-text](5.png)
 
 Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wenn nicht anders und individuell mit der/dem Dozent:in vereinbart. 
 
@@ -224,7 +224,7 @@ Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wen
 
 ## VI. Zitation
 
-![alt-text](2_2.png)
+![alt-text](7.png)
 
 Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um wissenschaftliche Redlichkeit zu gewährleisten, die Nachvollziehbarkeit der Argumentation sicherzustellen und Plagiate zu vermeiden.
 
@@ -323,7 +323,7 @@ Je nach Publikation gelten folgende Richtlinien:
 
 ## VII. Sprache und Stil
 
-![alt-text](4_4.png)
+![alt-text](7.png)
 
 Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Regeln, die sich an den Anforderungen wissenschaftlichen Schreibens orientieren. In der Philosophie kommt es vor allem darauf an, präzise, klar und nachvollziehbar zu argumentieren, wobei die Sprache zugleich sachlich und formal sein muss.
 
@@ -370,7 +370,7 @@ Der Stil und die Sprache einer philosophischen Hausarbeit folgen bestimmten Rege
 
 ## VIII. Literaturverzeichnis
 
- ![alt-text](5_5.png)
+ ![alt-text](8.png)
 
 Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeichnis vollständig und alphabetisch sortiert aufgeführt werden. Die genaue Form hängt vom gewählten Zitationsstil ab. Beispiel für die häufige deutsche Zitierweise:
 
@@ -387,11 +387,14 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
   Rawls, John (1971): Justice as Fairness, in: Philosophical Review 20 (2), S. 45–72.
 
 ## IV. Literaturempfehlungen
-![alt-text](5.png)
+![alt-text](9.png)
 
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
 Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+
+
+
 
