@@ -12,7 +12,7 @@ Der Zweck der Hausarbeit besteht darin, das wissenschaftliche Schreiben zu train
 
 ## I. Themenwahl und Vorbereitung
 
-![alt-text](3.png)
+![alt-text](10.png)
 
 Wählen Sie ein Thema, das Sie interessiert und gleichzeitig Raum für eigene Einordnungen und Argumentationsansätze bietet. Das Thema Ihrer Hausarbeit sollte thematisch im Rahmen des jeweiligen Seminars liegen. Idealerweise wählen Sie es selbst aus und besprechen es mit dem Seminarleiter oder der Seminarleiterin. Im besten Fall dient die geplante Hausarbeit der Vertiefung eigener fachlicher Interessen.
 
