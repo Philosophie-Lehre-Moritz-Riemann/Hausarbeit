@@ -398,6 +398,9 @@ Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, 
 
 Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
 
+**Weitere hilfreiche Tipps zur Anfertigung wissenschaftlicher Prüfungsleistungen finden Sie unter dem folgenden Link: https://lms.uni-kiel.de/url/RepositoryEntry/4346544132
+
+
 
 
 
