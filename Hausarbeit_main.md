@@ -84,7 +84,7 @@ Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden
 
 - Orientierung und Grundlagenarbeit
 
-  - Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: Stanford Encyclopedia of Philosophy https://plato.stanford.edu, Routledge Encyclopedia of Philosophy
+  - Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: Stanford Encyclopedia of Philosophy, Routledge Encyclopedia of Philosophy
   - Einführungswerke und Handbücher: Diese bieten eine erste Einführung in das Thema und Literaturhinweise für vertiefende Werke. Beispiele: Reihen wie Grundrisse der Philosophie oder Metzler Handbuch.
 
 - Gezielte Literaturrecherche
