@@ -221,7 +221,7 @@ Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wen
 
 - Bei Adjektivierungen von Eigennamen muss auf die richtige Schreibweise geachtet werden. Richtig sind folgende Versionen: hegelsche (klein und ohne Apostroph) und Hegel’sche (groß, mit Apostroph). Nicht mehr üblich ist die Variante Hegelsche (groß, ohne Apostroph).
 
-[^1] Herbert Marcuse, Triebstruktur und Gesellschaft. Ein philosophischer Beitrag zu Sigmund Freud, in: Herbert Marcuse, Schriften, Band 5, Frankfurt am Main: Suhrkamp Verlag 1970, S.32.
+[^1]: Herbert Marcuse, Triebstruktur und Gesellschaft. Ein philosophischer Beitrag zu Sigmund Freud, in: Herbert Marcuse, Schriften, Band 5, Frankfurt am Main: Suhrkamp Verlag 1970, S.32.
 
 
 ## VI. Zitation
@@ -321,8 +321,8 @@ Je nach Publikation gelten folgende Richtlinien:
   Beispiel:
   Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt. [^3]
 
-[^2] Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
-[^3] Vgl. Weil, Über die Ursachen von Freiheit, 40f.
+[^2]: Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
+[^3]: Vgl. Weil, Über die Ursachen von Freiheit, 40f.
 
 ## VII. Sprache und Stil
 
