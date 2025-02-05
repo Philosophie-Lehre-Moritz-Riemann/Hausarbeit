@@ -175,7 +175,7 @@ Im Hauptteil ist es unerlässlich, der logischen Hierarchie von These, Argument 
 
 Der Schlussteil fasst die zentralen Schritte des Gedankengangs sowie die wichtigsten Ergebnisse der Arbeit prägnant zusammen. Neue inhaltliche Punkte sollten hier nicht eingeführt werden. Falls passend, kann der Schluss einen kurzen Ausblick auf noch offene Fragen oder weitere Diskussionsmöglichkeiten bieten.
 
-## V. Formatierung
+## V. Editorische Vorgaben
  ![alt-text](5.png)
 
 Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wenn nicht anders und individuell mit der/dem Dozent:in vereinbart. 
