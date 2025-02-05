@@ -394,11 +394,11 @@ Am Ende der Hausarbeit müssen alle zitierten Quellen in einem Literaturverzeich
 
 Bünting, Karl-Dieter/Bitterlich, Alex/Pospiech, Ulrike: Schreiben im Studium mit Erfolg. Ein Leit- faden. Berlin 2000.
 
-Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 92002.
+Eco, Umberto: Wie man eine wissenschaftliche Abschlussarbeit schreibt. Doktor-, Diplom- und Magisterarbeit in den Geistes- und Sozialwissenschaften. Übers. v. Walter Schick. Heidelberg 2002.
 
-Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 92004.
+Schneider, Wolf: Deutsch für Kenner. Die neue Stilkunde. München 2004.
 
-**Weitere hilfreiche Tipps zur Anfertigung wissenschaftlicher Prüfungsleistungen am Philosophischen Seminar finden Sie unter dem folgenden Link: https://lms.uni-kiel.de/url/RepositoryEntry/4346544132.
+**Weitere hilfreiche Tipps zur Anfertigung wissenschaftlicher Prüfungsleistungen am Philosophischen Seminar finden Sie unter dem folgenden Link: https://lms.uni-kiel.de/url/RepositoryEntry/4346544132
 
 
 
