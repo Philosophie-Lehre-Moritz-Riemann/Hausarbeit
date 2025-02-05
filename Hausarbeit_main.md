@@ -4,7 +4,7 @@
 
 ## Die philosophische Hausarbeit als Prüfungsformat
 
-![alt-text](2.png)
+![alt-text](10.png)
 
 Eine Hausarbeit ist in der Regel eine systematische und ausführliche Abhandlung, die sich mit einem philosophischen  Problem bzw. einer philosophischen Fragestellung auseinandersetzt. Dabei sollen Studierende zeigen, dass sie in der Lage sind, ein philosophisches Problem eigenständig zu erfassen, darzustellen und mithilfe philosophischer Methoden zu bearbeiten, um zu einem plausibel begründeten Ergebnis zu gelangen.
 
