@@ -224,7 +224,7 @@ Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wen
 
 ## VI. Zitation
 
-![alt-text](7.png)
+![alt-text](6.png)
 
 Die korrekte Zitation in einer philosophischen Hausarbeit ist unerlässlich, um wissenschaftliche Redlichkeit zu gewährleisten, die Nachvollziehbarkeit der Argumentation sicherzustellen und Plagiate zu vermeiden.
 
