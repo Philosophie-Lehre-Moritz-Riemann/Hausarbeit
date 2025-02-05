@@ -221,7 +221,7 @@ Für die Formatierung empfiehlt es sich, die folgenden Hinweise zu beachten, wen
 
 - Bei Adjektivierungen von Eigennamen muss auf die richtige Schreibweise geachtet werden. Richtig sind folgende Versionen: hegelsche (klein und ohne Apostroph) und Hegel’sche (groß, mit Apostroph). Nicht mehr üblich ist die Variante Hegelsche (groß, ohne Apostroph).
 
-[^1]: Herbert Marcuse, Triebstruktur und Gesellschaft. Ein philosophischer Beitrag zu Sigmund Freud, in: Herbert Marcuse, Schriften, Band 5, Frankfurt am Main: Suhrkamp Verlag 1970, S.32.
+[^1]: Herbert Marcuse, Triebstruktur und Gesellschaft. Ein philosophischer Beitrag zu Sigmund Freud, in: Herbert Marcuse, Schriften, Band 5, Frankfurt am Main: Suhrkamp Verlag 1970, S. 32.
 
 
 ## VI. Zitation
