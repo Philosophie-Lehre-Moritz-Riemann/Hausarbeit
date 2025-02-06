@@ -84,7 +84,7 @@ Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden
 
 - Orientierung und Grundlagenarbeit
 
-  - Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: Stanford Encyclopedia of Philosophy, Routledge Encyclopedia of Philosophy
+  - Philosophische Nachschlagewerke und Enzyklopädien: Diese bieten Überblickswissen und Orientierung zu zentralen Begriffen, Theorien oder Philosoph*innen. Beispiele: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu), [Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com)
   - Einführungswerke und Handbücher: Diese bieten eine erste Einführung in das Thema und Literaturhinweise für vertiefende Werke. Beispiele: Reihen wie Grundrisse der Philosophie oder Metzler Handbuch.
 
 - Gezielte Literaturrecherche
@@ -95,25 +95,25 @@ Hier sind wichtige Schritte und Orte, um relevante Forschungsliteratur zu finden
 
   - Bibliothekskataloge: Nutzen Sie Universitätsbibliotheken oder nationale Bibliotheksverbünde.
 
-    - Karlsruher Virtueller Katalog (KVK)
+    - [Karlsruher Virtueller Katalog ](https://kvk.bibliothek.kit.edu/?digitalOnly=0&embedFulltitle=0&newTab=0)(KVK)
 
-    - Deutsche Nationalbibliothek
+    - [Deutsche Nationalbibliothek](https://www.dnb.de/DE/Home/home_node.html)
 
-    - Lokale Bibliothekskataloge (z.B. OPAC).
+    - [Lokale Bibliothekskataloge](https://www.ub.uni-kiel.de/de/suchen-finden/kataloge) (z.B. OPAC).
 
   -   Fach-Datenbanken für Philosophie:
 
-    - PhilPapers – umfassende Plattform für philosophische Artikel und Literatur.
+    - [PhilPapers](https://philpapers.org)– umfassende Plattform für philosophische Artikel und Literatur.
 
-    - JSTOR – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
+    - [JSTOR](https://www.jstor.org) – Archiv für wissenschaftliche Journals, darunter viele philosophische Texte.
 
-    - ProQuest oder EBSCOhost – interdisziplinäre Plattformen mit philosophischen Inhalten.
+    - [ProQuest](https://www.proquest.com/index) oder [EBSCOhost](https://research.ebsco.com/c/pki2kr/search/advanced/filters?isDashboardExpanded=true) – interdisziplinäre Plattformen mit philosophischen Inhalten.
 
-    - Elektronische Zeitschriftenbibliotheken (EZB): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
+    - Elektronische Zeitschriftenbibliotheken ([EZB](https://ezb.uni-regensburg.de)): Zugriff auf wissenschaftliche Fachzeitschriften, oft über Universitäten.
 
-  - Google Scholar: Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
+  - [Google Scholar](https://scholar.google.de): Für die Suche nach wissenschaftlichen Aufsätzen und Büchern, inklusive Zitierungen.
 
-  - Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie d-nb.info (Deutsche Dissertationen) oder ProQuest Dissertations & Theses.
+  - Dissertationen und Forschungsarbeiten: Oft auf Plattformen wie [d-nb.info](https://portal.dnb.de/opac.htm) (Deutsche Dissertationen) oder [ProQuest Dissertations & Theses](https://about.proquest.com/en/products-services/pqdtglobal/).
 
 ## IV. Gliederung
 
@@ -322,7 +322,7 @@ Je nach Publikation gelten folgende Richtlinien:
   Simone Weil führt weiter aus, dass der Mensch in großen Teilen über die Natur herrschen mag, er jedoch der Sklave *seiner* Natur bleibt. [^3]
 
 [^2]: Simone Weil, Über die Ursachen von Freiheit und gesellschaftlicher Unterdrückung, Zürich<sup>3</sup>: Diaphanes Verlag 2021, S. 40.
-[^3]: Vgl. Weil, Über die Ursachen von Freiheit, 40f.
+[^3]: Vgl. Weil, Über die Ursachen von Freiheit, S. 40f.
 
 ## VII. Sprache und Stil
 
