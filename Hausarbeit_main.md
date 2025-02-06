@@ -126,7 +126,6 @@ Eine wissenschaftliche Arbeit setzt eine klare und präzise Gliederung voraus, d
 - Deckblatt: Titel der Arbeit, Name, Studiengang und Matrikelnummer  
 ([Mustertitelblätter)](titelblaetter.doc)
 
-
 - Inhaltsverzeichnis: Mit allen Überschriften und den zugehörigen Seitenzahlen 
 
 - Einleitung: Interesse wecken, Fragestellung und These vorstellen, Gliederung erläutern
